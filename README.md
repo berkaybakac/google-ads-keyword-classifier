@@ -93,5 +93,3 @@ The technical code (JSON → Excel) supports the prompt-based insight and decisi
 This project serves as a minimal but powerful showcase of what LLMs can do when paired with clear instruction and schema design.
 
 ```  
-
----
