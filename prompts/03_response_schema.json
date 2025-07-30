@@ -1,0 +1,53 @@
+{
+  "name": "results",
+  "strict": true,
+  "schema": {
+    "type": "object",
+    "properties": {
+      "results": {
+        "type": "array",
+        "items": {
+          "type": "object",
+          "properties": {
+            "id": {
+              "type": "integer"
+            },
+            "term": {
+              "type": "string"
+            },
+            "is_positive": {
+              "type": "integer",
+              "enum": [
+                0,
+                1
+              ]
+            },
+            "match_type": {
+              "type": "string",
+              "enum": [
+                "broad",
+                "phrase",
+                "exact"
+              ]
+            },
+            "explanation": {
+              "type": "string"
+            }
+          },
+          "required": [
+            "id",
+            "term",
+            "is_positive",
+            "match_type",
+            "explanation"
+          ],
+          "additionalProperties": false
+        }
+      }
+    },
+    "required": [
+      "results"
+    ],
+    "additionalProperties": false
+  }
+}

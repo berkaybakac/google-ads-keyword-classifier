@@ -1,0 +1,214 @@
+{
+  "results": [
+    {
+      "id": 1,
+      "term": "altus servis",
+      "is_positive": 0,
+      "match_type": "broad",
+      "explanation": "This term refers to a specific brand service, likely seeking official support rather than repair."
+    },
+    {
+      "id": 2,
+      "term": "beyaz eşya tamircileri",
+      "is_positive": 1,
+      "match_type": "broad",
+      "explanation": "This term indicates a general interest in white goods repair, suitable for attracting local customers."
+    },
+    {
+      "id": 3,
+      "term": "buzdolabı",
+      "is_positive": 1,
+      "match_type": "broad",
+      "explanation": "This term is a general term for refrigerators, indicating potential repair interest."
+    },
+    {
+      "id": 4,
+      "term": "nebiler baymak servis",
+      "is_positive": 0,
+      "match_type": "broad",
+      "explanation": "This term refers to a specific brand service, likely seeking official support rather than repair."
+    },
+    {
+      "id": 5,
+      "term": "vestel çamaşır makinesi",
+      "is_positive": 0,
+      "match_type": "broad",
+      "explanation": "This term mentions a specific brand, indicating a preference for official service rather than independent repair."
+    },
+    {
+      "id": 6,
+      "term": "sharp buzdolabı servisi",
+      "is_positive": 0,
+      "match_type": "broad",
+      "explanation": "This term refers to a specific brand service, likely seeking official support rather than repair."
+    },
+    {
+      "id": 7,
+      "term": "camasir makinesi servisi",
+      "is_positive": 1,
+      "match_type": "phrase",
+      "explanation": "This term clearly indicates a service for washing machines, suitable for attracting repair-seeking customers."
+    },
+    {
+      "id": 8,
+      "term": "çamaşır makinesi tesisatı",
+      "is_positive": 0,
+      "match_type": "broad",
+      "explanation": "This term refers to installation rather than repair services, making it irrelevant for repair intent."
+    },
+    {
+      "id": 9,
+      "term": "alibeyköy buzdolabı tamircisi",
+      "is_positive": 1,
+      "match_type": "exact",
+      "explanation": "This term specifies a refrigerator repair service in a local area, indicating high intent for repair."
+    },
+    {
+      "id": 10,
+      "term": "leısure servis",
+      "is_positive": 0,
+      "match_type": "broad",
+      "explanation": "This term is vague and does not clearly indicate repair intent, making it unsuitable."
+    },
+    {
+      "id": 11,
+      "term": "arnavutköy çamaşır makinesi tamir",
+      "is_positive": 1,
+      "match_type": "exact",
+      "explanation": "This term specifies washing machine repair in a local area, indicating high intent for repair."
+    },
+    {
+      "id": 12,
+      "term": "arçelik servis",
+      "is_positive": 0,
+      "match_type": "broad",
+      "explanation": "This term refers to a specific brand service, likely seeking official support rather than repair."
+    },
+    {
+      "id": 13,
+      "term": "bursa çamaşır makinesi tamiri",
+      "is_positive": 0,
+      "match_type": "broad",
+      "explanation": "This term mentions a city outside Istanbul, making it irrelevant for local repair services."
+    },
+    {
+      "id": 14,
+      "term": "samsung çamaşır makinesi tamircisi",
+      "is_positive": 0,
+      "match_type": "broad",
+      "explanation": "This term refers to a specific brand service, likely seeking official support rather than repair."
+    },
+    {
+      "id": 15,
+      "term": "televizyon tamir",
+      "is_positive": 1,
+      "match_type": "broad",
+      "explanation": "This term indicates a clear interest in television repair, suitable for attracting local customers."
+    },
+    {
+      "id": 16,
+      "term": "demirdöküm servis",
+      "is_positive": 0,
+      "match_type": "broad",
+      "explanation": "This term refers to a specific brand service, likely seeking official support rather than repair."
+    },
+    {
+      "id": 17,
+      "term": "ferroli kombi servis",
+      "is_positive": 0,
+      "match_type": "broad",
+      "explanation": "This term refers to a specific brand service, likely seeking official support rather than repair."
+    },
+    {
+      "id": 18,
+      "term": "airfel kombi servis bandırma",
+      "is_positive": 0,
+      "match_type": "broad",
+      "explanation": "This term mentions a city outside Istanbul, making it irrelevant for local repair services."
+    },
+    {
+      "id": 19,
+      "term": "görükle televizyon tamircisi",
+      "is_positive": 0,
+      "match_type": "exact",
+      "explanation": "This term mentions a city outside Istanbul, making it irrelevant for local repair services."
+    },
+    {
+      "id": 20,
+      "term": "profilo servis numarası",
+      "is_positive": 0,
+      "match_type": "broad",
+      "explanation": "This term refers to a customer service hotline, not indicating repair intent."
+    },
+    {
+      "id": 21,
+      "term": "teknikel servis",
+      "is_positive": 0,
+      "match_type": "broad",
+      "explanation": "This term is vague and does not clearly indicate repair intent, making it unsuitable."
+    },
+    {
+      "id": 22,
+      "term": "kartepe beyaz eşya tamircisi",
+      "is_positive": 0,
+      "match_type": "broad",
+      "explanation": "This term mentions a city outside Istanbul, making it irrelevant for local repair services."
+    },
+    {
+      "id": 23,
+      "term": "klima iç ünite",
+      "is_positive": 0,
+      "match_type": "broad",
+      "explanation": "This term refers to a specific component rather than a repair service, making it unsuitable."
+    },
+    {
+      "id": 24,
+      "term": "sanko oto klima",
+      "is_positive": 0,
+      "match_type": "broad",
+      "explanation": "This term refers to a specific brand service, likely seeking official support rather than repair."
+    },
+    {
+      "id": 25,
+      "term": "söke klima tamircisi",
+      "is_positive": 0,
+      "match_type": "broad",
+      "explanation": "This term mentions a city outside Istanbul, making it irrelevant for local repair services."
+    },
+    {
+      "id": 26,
+      "term": "klima servisi aydın",
+      "is_positive": 0,
+      "match_type": "broad",
+      "explanation": "This term mentions a city outside Istanbul, making it irrelevant for local repair services."
+    },
+    {
+      "id": 27,
+      "term": "sigma klima servis izmir",
+      "is_positive": 0,
+      "match_type": "broad",
+      "explanation": "This term mentions a city outside Istanbul, making it irrelevant for local repair services."
+    },
+    {
+      "id": 28,
+      "term": "silifke klima tamircileri",
+      "is_positive": 0,
+      "match_type": "broad",
+      "explanation": "This term mentions a city outside Istanbul, making it irrelevant for local repair services."
+    },
+    {
+      "id": 29,
+      "term": "york klima",
+      "is_positive": 0,
+      "match_type": "broad",
+      "explanation": "This term refers to a specific brand service, likely seeking official support rather than repair."
+    },
+    {
+      "id": 30,
+      "term": "bosch servisi",
+      "is_positive": 0,
+      "match_type": "broad",
+      "explanation": "This term refers to a specific brand service, likely seeking official support rather than repair."
+    }
+  ]
+}
