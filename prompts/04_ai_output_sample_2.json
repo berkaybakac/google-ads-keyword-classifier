@@ -1,0 +1,354 @@
+{
+  "results": [
+    {
+      "id": 1,
+      "term": "en yakın klima servisi",
+      "is_positive": 1,
+      "match_type": "phrase",
+      "explanation": "[Accepted due to clear repair intent for klima in Istanbul]. [Phrase match as it indicates a nearby service search.]"
+    },
+    {
+      "id": 2,
+      "term": "beko çamaşır makinesi teknik servis",
+      "is_positive": 0,
+      "match_type": "broad",
+      "explanation": "[Rejected due to official service seeking intent]. [Broad match as it lacks repair action and is brand-specific.]"
+    },
+    {
+      "id": 3,
+      "term": "en yakın beyaz eşya tamircisi",
+      "is_positive": 1,
+      "match_type": "phrase",
+      "explanation": "[Accepted due to clear repair intent for beyaz eşya in Istanbul]. [Phrase match as it indicates a nearby repair service search.]"
+    },
+    {
+      "id": 4,
+      "term": "airfel kombi servis numarası",
+      "is_positive": 0,
+      "match_type": "broad",
+      "explanation": "[Rejected due to request for contact information]. [Broad match as it lacks repair action and is brand-specific.]"
+    },
+    {
+      "id": 5,
+      "term": "görükle tv tamircisi",
+      "is_positive": 1,
+      "match_type": "exact",
+      "explanation": "[Accepted due to clear repair intent for TV in Görükle, Istanbul]. [Exact match as it specifies a location and repair action.]"
+    },
+    {
+      "id": 6,
+      "term": "trabzon buzdolabı tamircisi",
+      "is_positive": 0,
+      "match_type": "broad",
+      "explanation": "[Rejected due to specifying a city outside Istanbul]. [Broad match as it lacks repair action and is location-specific.]"
+    },
+    {
+      "id": 7,
+      "term": "akçaabat arçelik servisi",
+      "is_positive": 0,
+      "match_type": "broad",
+      "explanation": "[Rejected due to official service seeking intent]. [Broad match as it lacks repair action and is location-specific.]"
+    },
+    {
+      "id": 8,
+      "term": "vestel servis",
+      "is_positive": 0,
+      "match_type": "broad",
+      "explanation": "[Rejected due to official service seeking intent]. [Broad match as it lacks repair action and is brand-specific.]"
+    },
+    {
+      "id": 9,
+      "term": "altus buzdolabı servis",
+      "is_positive": 0,
+      "match_type": "broad",
+      "explanation": "[Rejected due to official service seeking intent]. [Broad match as it lacks repair action and is brand-specific.]"
+    },
+    {
+      "id": 10,
+      "term": "demirdöküm servis",
+      "is_positive": 0,
+      "match_type": "broad",
+      "explanation": "[Rejected due to official service seeking intent]. [Broad match as it lacks repair action and is brand-specific.]"
+    },
+    {
+      "id": 11,
+      "term": "arçelik servis",
+      "is_positive": 0,
+      "match_type": "broad",
+      "explanation": "[Rejected due to official service seeking intent]. [Broad match as it lacks repair action and is brand-specific.]"
+    },
+    {
+      "id": 12,
+      "term": "bosch un telefon numarası",
+      "is_positive": 0,
+      "match_type": "broad",
+      "explanation": "[Rejected due to request for contact information]. [Broad match as it lacks repair action and is brand-specific.]"
+    },
+    {
+      "id": 13,
+      "term": "keysmart buzdolabı servisi",
+      "is_positive": 0,
+      "match_type": "broad",
+      "explanation": "[Rejected due to official service seeking intent]. [Broad match as it lacks repair action and is brand-specific.]"
+    },
+    {
+      "id": 14,
+      "term": "görükle çamaşır makinesi tamiri",
+      "is_positive": 1,
+      "match_type": "exact",
+      "explanation": "[Accepted due to clear repair intent for çamaşır makinesi in Görükle, Istanbul]. [Exact match as it specifies a location and repair action.]"
+    },
+    {
+      "id": 15,
+      "term": "arçelik buzdolabı servis",
+      "is_positive": 0,
+      "match_type": "broad",
+      "explanation": "[Rejected due to official service seeking intent]. [Broad match as it lacks repair action and is brand-specific.]"
+    },
+    {
+      "id": 16,
+      "term": "altus klima bakımı",
+      "is_positive": 0,
+      "match_type": "broad",
+      "explanation": "[Rejected due to focusing on maintenance rather than repair]. [Broad match as it lacks repair action.]"
+    },
+    {
+      "id": 17,
+      "term": "grundig servis",
+      "is_positive": 0,
+      "match_type": "broad",
+      "explanation": "[Rejected due to official service seeking intent]. [Broad match as it lacks repair action and is brand-specific.]"
+    },
+    {
+      "id": 18,
+      "term": "sigma klima fa arızası",
+      "is_positive": 1,
+      "match_type": "phrase",
+      "explanation": "[Accepted due to clear repair intent for klima with fault indication]. [Phrase match as it indicates a repair issue.]"
+    },
+    {
+      "id": 19,
+      "term": "dijitsu klima servis",
+      "is_positive": 0,
+      "match_type": "broad",
+      "explanation": "[Rejected due to official service seeking intent]. [Broad match as it lacks repair action and is brand-specific.]"
+    },
+    {
+      "id": 20,
+      "term": "arçelik klima tespit",
+      "is_positive": 0,
+      "match_type": "broad",
+      "explanation": "[Rejected due to focusing on diagnostics rather than repair]. [Broad match as it lacks repair action.]"
+    },
+    {
+      "id": 21,
+      "term": "hoover çamaşır makinesi servis numarası",
+      "is_positive": 0,
+      "match_type": "broad",
+      "explanation": "[Rejected due to request for contact information]. [Broad match as it lacks repair action and is brand-specific.]"
+    },
+    {
+      "id": 22,
+      "term": "klima servis",
+      "is_positive": 0,
+      "match_type": "broad",
+      "explanation": "[Rejected due to being vague and lacking specific repair intent]. [Broad match as it lacks repair action.]"
+    },
+    {
+      "id": 23,
+      "term": "pursaklar buzdolabı tamircisi",
+      "is_positive": 1,
+      "match_type": "exact",
+      "explanation": "[Accepted due to clear repair intent for buzdolabı in Pursaklar, Istanbul]. [Exact match as it specifies a location and repair action.]"
+    },
+    {
+      "id": 24,
+      "term": "buzdolabı tamircisi ankara mamak",
+      "is_positive": 0,
+      "match_type": "broad",
+      "explanation": "[Rejected due to specifying a city outside Istanbul]. [Broad match as it lacks repair action and is location-specific.]"
+    },
+    {
+      "id": 25,
+      "term": "kombi tamircisi",
+      "is_positive": 1,
+      "match_type": "broad",
+      "explanation": "[Accepted due to clear repair intent for kombi]. [Broad match as it indicates a general repair service.]"
+    },
+    {
+      "id": 26,
+      "term": "3m servis üçkuyular",
+      "is_positive": 0,
+      "match_type": "broad",
+      "explanation": "[Rejected due to official service seeking intent]. [Broad match as it lacks repair action and is brand-specific.]"
+    },
+    {
+      "id": 27,
+      "term": "balıkesir klima servisi",
+      "is_positive": 0,
+      "match_type": "broad",
+      "explanation": "[Rejected due to specifying a city outside Istanbul]. [Broad match as it lacks repair action and is location-specific.]"
+    },
+    {
+      "id": 28,
+      "term": "eryaman klima servisi",
+      "is_positive": 0,
+      "match_type": "broad",
+      "explanation": "[Rejected due to specifying a city outside Istanbul]. [Broad match as it lacks repair action and is location-specific.]"
+    },
+    {
+      "id": 29,
+      "term": "baymak servisi karataş",
+      "is_positive": 0,
+      "match_type": "broad",
+      "explanation": "[Rejected due to official service seeking intent]. [Broad match as it lacks repair action and is brand-specific.]"
+    },
+    {
+      "id": 30,
+      "term": "tomalar vaillant servisi",
+      "is_positive": 0,
+      "match_type": "broad",
+      "explanation": "[Rejected due to official service seeking intent]. [Broad match as it lacks repair action and is brand-specific.]"
+    },
+    {
+      "id": 31,
+      "term": "demirdöküm servisi güvenlik",
+      "is_positive": 0,
+      "match_type": "broad",
+      "explanation": "[Rejected due to official service seeking intent]. [Broad match as it lacks repair action and is brand-specific.]"
+    },
+    {
+      "id": 32,
+      "term": "kanal vaillant servisi",
+      "is_positive": 0,
+      "match_type": "broad",
+      "explanation": "[Rejected due to official service seeking intent]. [Broad match as it lacks repair action and is brand-specific.]"
+    },
+    {
+      "id": 33,
+      "term": "gemlik demirdöküm servis",
+      "is_positive": 0,
+      "match_type": "broad",
+      "explanation": "[Rejected due to specifying a city outside Istanbul]. [Broad match as it lacks repair action and is location-specific.]"
+    },
+    {
+      "id": 34,
+      "term": "kılınçarslan baymak servisi",
+      "is_positive": 0,
+      "match_type": "broad",
+      "explanation": "[Rejected due to official service seeking intent]. [Broad match as it lacks repair action and is brand-specific.]"
+    },
+    {
+      "id": 35,
+      "term": "söke klima tamircisi",
+      "is_positive": 0,
+      "match_type": "broad",
+      "explanation": "[Rejected due to specifying a city outside Istanbul]. [Broad match as it lacks repair action and is location-specific.]"
+    },
+    {
+      "id": 36,
+      "term": "pendik kombi",
+      "is_positive": 1,
+      "match_type": "exact",
+      "explanation": "[Accepted due to clear repair intent for kombi in Pendik, Istanbul]. [Exact match as it specifies a location and repair action.]"
+    },
+    {
+      "id": 37,
+      "term": "ferroli kombi f arıza kodu",
+      "is_positive": 1,
+      "match_type": "phrase",
+      "explanation": "[Accepted due to clear repair intent for kombi with fault indication]. [Phrase match as it indicates a repair issue.]"
+    },
+    {
+      "id": 38,
+      "term": "altus teknik servis",
+      "is_positive": 0,
+      "match_type": "broad",
+      "explanation": "[Rejected due to official service seeking intent]. [Broad match as it lacks repair action and is brand-specific.]"
+    },
+    {
+      "id": 39,
+      "term": "şanlıurfa regal servis numarası",
+      "is_positive": 0,
+      "match_type": "broad",
+      "explanation": "[Rejected due to request for contact information]. [Broad match as it lacks repair action and is brand-specific.]"
+    },
+    {
+      "id": 40,
+      "term": "kombi servisi",
+      "is_positive": 1,
+      "match_type": "broad",
+      "explanation": "[Accepted due to clear repair intent for kombi]. [Broad match as it indicates a general repair service.]"
+    },
+    {
+      "id": 41,
+      "term": "bulaşık makinesi yıkamadan bitiyor",
+      "is_positive": 1,
+      "match_type": "phrase",
+      "explanation": "[Accepted due to clear repair intent for bulaşık makinesi with fault indication]. [Phrase match as it indicates a repair issue.]"
+    },
+    {
+      "id": 42,
+      "term": "balıkesir bosch servisi telefon numarası",
+      "is_positive": 0,
+      "match_type": "broad",
+      "explanation": "[Rejected due to request for contact information]. [Broad match as it lacks repair action and is brand-specific.]"
+    },
+    {
+      "id": 43,
+      "term": "demetevler baymak kombi servisi",
+      "is_positive": 0,
+      "match_type": "broad",
+      "explanation": "[Rejected due to official service seeking intent]. [Broad match as it lacks repair action and is brand-specific.]"
+    },
+    {
+      "id": 44,
+      "term": "iklimsa edremit servis",
+      "is_positive": 0,
+      "match_type": "broad",
+      "explanation": "[Rejected due to official service seeking intent]. [Broad match as it lacks repair action and is brand-specific.]"
+    },
+    {
+      "id": 45,
+      "term": "karaveliler demirdöküm servis",
+      "is_positive": 0,
+      "match_type": "broad",
+      "explanation": "[Rejected due to official service seeking intent]. [Broad match as it lacks repair action and is brand-specific.]"
+    },
+    {
+      "id": 46,
+      "term": "sarısu vaillant servis",
+      "is_positive": 0,
+      "match_type": "broad",
+      "explanation": "[Rejected due to official service seeking intent]. [Broad match as it lacks repair action and is brand-specific.]"
+    },
+    {
+      "id": 47,
+      "term": "hotpoint ariston servis numarası",
+      "is_positive": 0,
+      "match_type": "broad",
+      "explanation": "[Rejected due to request for contact information]. [Broad match as it lacks repair action and is brand-specific.]"
+    },
+    {
+      "id": 48,
+      "term": "beyaz eşya tamirhanesi",
+      "is_positive": 1,
+      "match_type": "broad",
+      "explanation": "[Accepted due to clear repair intent for beyaz eşya]. [Broad match as it indicates a general repair service.]"
+    },
+    {
+      "id": 49,
+      "term": "electrolux çamaşır makinesi arızaları",
+      "is_positive": 1,
+      "match_type": "phrase",
+      "explanation": "[Accepted due to clear repair intent for çamaşır makinesi with fault indication]. [Phrase match as it indicates a repair issue.]"
+    },
+    {
+      "id": 50,
+      "term": "ay teknik çekmekoy",
+      "is_positive": 0,
+      "match_type": "broad",
+      "explanation": "[Rejected due to being vague and lacking specific repair intent]. [Broad match as it lacks repair action.]"
+    }
+  ]
+}

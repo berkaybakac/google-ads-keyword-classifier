@@ -1,32 +1,30 @@
-[
-  { "id": 1, "term": "altus servis" },
-  { "id": 2, "term": "beyaz eşya tamircileri" },
-  { "id": 3, "term": "buzdolabı" },
-  { "id": 4, "term": "nebiler baymak servis" },
-  { "id": 5, "term": "vestel çamaşır makinesi" },
-  { "id": 6, "term": "sharp buzdolabı servisi" },
-  { "id": 7, "term": "camasir makinesi servisi" },
-  { "id": 8, "term": "çamaşır makinesi tesisatı" },
-  { "id": 9, "term": "alibeyköy buzdolabı tamircisi" },
-  { "id": 10, "term": "leısure servis" },
-  { "id": 11, "term": "arnavutköy çamaşır makinesi tamir" },
-  { "id": 12, "term": "arçelik servis" },
-  { "id": 13, "term": "bursa çamaşır makinesi tamiri" },
-  { "id": 14, "term": "samsung çamaşır makinesi tamircisi" },
-  { "id": 15, "term": "televizyon tamir" },
-  { "id": 16, "term": "demirdöküm servis" },
-  { "id": 17, "term": "ferroli kombi servis" },
-  { "id": 18, "term": "airfel kombi servis bandırma" },
-  { "id": 19, "term": "görükle televizyon tamircisi" },
-  { "id": 20, "term": "profilo servis numarası" },
-  { "id": 21, "term": "teknikel servis" },
-  { "id": 22, "term": "kartepe beyaz eşya tamircisi" },
-  { "id": 23, "term": "klima iç ünite" },
-  { "id": 24, "term": "sanko oto klima" },
-  { "id": 25, "term": "söke klima tamircisi" },
-  { "id": 26, "term": "klima servisi aydın" },
-  { "id": 27, "term": "sigma klima servis izmir" },
-  { "id": 28, "term": "silifke klima tamircileri" },
-  { "id": 29, "term": "york klima" },
-  { "id": 30, "term": "bosch servisi" }
-]
+altus servis
+beyaz eşya tamircileri
+buzdolabı
+nebiler baymak servis
+vestel çamaşır makinesi
+sharp buzdolabı servisi
+camasir makinesi servisi
+çamaşır makinesi tesisatı
+alibeyköy buzdolabı tamircisi
+leısure servis
+arnavutköy çamaşır makinesi tamir
+arçelik servis
+bursa çamaşır makinesi tamiri
+samsung çamaşır makinesi tamircisi
+televizyon tamir
+demirdöküm servis
+ferroli kombi servis
+airfel kombi servis bandırma
+görükle televizyon tamircisi
+profilo servis numarası
+teknikel servis
+kartepe beyaz eşya tamircisi
+klima iç ünite
+sanko oto klima
+söke klima tamircisi
+klima servisi aydın
+sigma klima servis izmir
+silifke klima tamircileri
+york klima
+bosch servisi

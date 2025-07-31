@@ -5,210 +5,210 @@
       "term": "altus servis",
       "is_positive": 0,
       "match_type": "broad",
-      "explanation": "This term refers to a specific brand service, likely seeking official support rather than repair."
+      "explanation": "[Reject reason: Mentions official service]. [Match type reasoning: Generic term without strong repair intent]."
     },
     {
       "id": 2,
       "term": "beyaz eşya tamircileri",
       "is_positive": 1,
-      "match_type": "broad",
-      "explanation": "This term indicates a general interest in white goods repair, suitable for attracting local customers."
+      "match_type": "phrase",
+      "explanation": "[Accept reason: Contains strong repair intent]. [Match type reasoning: Clearly repair-related phrase with flexibility]."
     },
     {
       "id": 3,
       "term": "buzdolabı",
-      "is_positive": 1,
+      "is_positive": 0,
       "match_type": "broad",
-      "explanation": "This term is a general term for refrigerators, indicating potential repair interest."
+      "explanation": "[Reject reason: Lacks clear service intent]. [Match type reasoning: Generic term without repair action]."
     },
     {
       "id": 4,
       "term": "nebiler baymak servis",
       "is_positive": 0,
       "match_type": "broad",
-      "explanation": "This term refers to a specific brand service, likely seeking official support rather than repair."
+      "explanation": "[Reject reason: Mentions official service]. [Match type reasoning: Generic term without strong repair intent]."
     },
     {
       "id": 5,
       "term": "vestel çamaşır makinesi",
       "is_positive": 0,
       "match_type": "broad",
-      "explanation": "This term mentions a specific brand, indicating a preference for official service rather than independent repair."
+      "explanation": "[Reject reason: Mentions official service]. [Match type reasoning: Brand reference implies official service]."
     },
     {
       "id": 6,
       "term": "sharp buzdolabı servisi",
       "is_positive": 0,
       "match_type": "broad",
-      "explanation": "This term refers to a specific brand service, likely seeking official support rather than repair."
+      "explanation": "[Reject reason: Mentions official service]. [Match type reasoning: Brand reference implies official service]."
     },
     {
       "id": 7,
       "term": "camasir makinesi servisi",
       "is_positive": 1,
       "match_type": "phrase",
-      "explanation": "This term clearly indicates a service for washing machines, suitable for attracting repair-seeking customers."
+      "explanation": "[Accept reason: Contains strong repair intent]. [Match type reasoning: Clearly repair-related phrase]."
     },
     {
       "id": 8,
       "term": "çamaşır makinesi tesisatı",
       "is_positive": 0,
       "match_type": "broad",
-      "explanation": "This term refers to installation rather than repair services, making it irrelevant for repair intent."
+      "explanation": "[Reject reason: Focuses on installation]. [Match type reasoning: Lacks clear repair intent]."
     },
     {
       "id": 9,
       "term": "alibeyköy buzdolabı tamircisi",
       "is_positive": 1,
       "match_type": "exact",
-      "explanation": "This term specifies a refrigerator repair service in a local area, indicating high intent for repair."
+      "explanation": "[Accept reason: Contains strong service intent and specific location]. [Match type reasoning: Exact match due to specific location and repair action]."
     },
     {
       "id": 10,
       "term": "leısure servis",
       "is_positive": 0,
       "match_type": "broad",
-      "explanation": "This term is vague and does not clearly indicate repair intent, making it unsuitable."
+      "explanation": "[Reject reason: Mentions official service]. [Match type reasoning: Generic term without strong repair intent]."
     },
     {
       "id": 11,
       "term": "arnavutköy çamaşır makinesi tamir",
       "is_positive": 1,
       "match_type": "exact",
-      "explanation": "This term specifies washing machine repair in a local area, indicating high intent for repair."
+      "explanation": "[Accept reason: Contains strong service intent and specific location]. [Match type reasoning: Exact match due to specific location and repair action]."
     },
     {
       "id": 12,
       "term": "arçelik servis",
       "is_positive": 0,
       "match_type": "broad",
-      "explanation": "This term refers to a specific brand service, likely seeking official support rather than repair."
+      "explanation": "[Reject reason: Mentions official service]. [Match type reasoning: Generic term without strong repair intent]."
     },
     {
       "id": 13,
       "term": "bursa çamaşır makinesi tamiri",
       "is_positive": 0,
       "match_type": "broad",
-      "explanation": "This term mentions a city outside Istanbul, making it irrelevant for local repair services."
+      "explanation": "[Reject reason: Specifies a city outside Istanbul]. [Match type reasoning: Lacks relevance to Istanbul]."
     },
     {
       "id": 14,
       "term": "samsung çamaşır makinesi tamircisi",
-      "is_positive": 0,
-      "match_type": "broad",
-      "explanation": "This term refers to a specific brand service, likely seeking official support rather than repair."
+      "is_positive": 1,
+      "match_type": "phrase",
+      "explanation": "[Accept reason: Contains strong repair intent]. [Match type reasoning: Brand reference implies third-party repair]."
     },
     {
       "id": 15,
       "term": "televizyon tamir",
       "is_positive": 1,
-      "match_type": "broad",
-      "explanation": "This term indicates a clear interest in television repair, suitable for attracting local customers."
+      "match_type": "phrase",
+      "explanation": "[Accept reason: Contains strong repair intent]. [Match type reasoning: Clearly repair-related phrase]."
     },
     {
       "id": 16,
       "term": "demirdöküm servis",
       "is_positive": 0,
       "match_type": "broad",
-      "explanation": "This term refers to a specific brand service, likely seeking official support rather than repair."
+      "explanation": "[Reject reason: Mentions official service]. [Match type reasoning: Generic term without strong repair intent]."
     },
     {
       "id": 17,
       "term": "ferroli kombi servis",
       "is_positive": 0,
       "match_type": "broad",
-      "explanation": "This term refers to a specific brand service, likely seeking official support rather than repair."
+      "explanation": "[Reject reason: Mentions official service]. [Match type reasoning: Brand reference implies official service]."
     },
     {
       "id": 18,
       "term": "airfel kombi servis bandırma",
       "is_positive": 0,
       "match_type": "broad",
-      "explanation": "This term mentions a city outside Istanbul, making it irrelevant for local repair services."
+      "explanation": "[Reject reason: Specifies a city outside Istanbul]. [Match type reasoning: Lacks relevance to Istanbul]."
     },
     {
       "id": 19,
       "term": "görükle televizyon tamircisi",
       "is_positive": 0,
-      "match_type": "exact",
-      "explanation": "This term mentions a city outside Istanbul, making it irrelevant for local repair services."
+      "match_type": "broad",
+      "explanation": "[Reject reason: Specifies a city outside Istanbul]. [Match type reasoning: Lacks relevance to Istanbul]."
     },
     {
       "id": 20,
       "term": "profilo servis numarası",
       "is_positive": 0,
       "match_type": "broad",
-      "explanation": "This term refers to a customer service hotline, not indicating repair intent."
+      "explanation": "[Reject reason: Requests contact info]. [Match type reasoning: Lacks clear service intent]."
     },
     {
       "id": 21,
       "term": "teknikel servis",
       "is_positive": 0,
       "match_type": "broad",
-      "explanation": "This term is vague and does not clearly indicate repair intent, making it unsuitable."
+      "explanation": "[Reject reason: Mentions official service]. [Match type reasoning: Generic term without strong repair intent]."
     },
     {
       "id": 22,
       "term": "kartepe beyaz eşya tamircisi",
       "is_positive": 0,
       "match_type": "broad",
-      "explanation": "This term mentions a city outside Istanbul, making it irrelevant for local repair services."
+      "explanation": "[Reject reason: Specifies a city outside Istanbul]. [Match type reasoning: Lacks relevance to Istanbul]."
     },
     {
       "id": 23,
       "term": "klima iç ünite",
       "is_positive": 0,
       "match_type": "broad",
-      "explanation": "This term refers to a specific component rather than a repair service, making it unsuitable."
+      "explanation": "[Reject reason: Focuses on components]. [Match type reasoning: Lacks clear repair intent]."
     },
     {
       "id": 24,
       "term": "sanko oto klima",
       "is_positive": 0,
       "match_type": "broad",
-      "explanation": "This term refers to a specific brand service, likely seeking official support rather than repair."
+      "explanation": "[Reject reason: Refers to a device outside the supported scope]. [Match type reasoning: Lacks clear repair intent]."
     },
     {
       "id": 25,
       "term": "söke klima tamircisi",
       "is_positive": 0,
       "match_type": "broad",
-      "explanation": "This term mentions a city outside Istanbul, making it irrelevant for local repair services."
+      "explanation": "[Reject reason: Specifies a city outside Istanbul]. [Match type reasoning: Lacks relevance to Istanbul]."
     },
     {
       "id": 26,
       "term": "klima servisi aydın",
       "is_positive": 0,
       "match_type": "broad",
-      "explanation": "This term mentions a city outside Istanbul, making it irrelevant for local repair services."
+      "explanation": "[Reject reason: Specifies a city outside Istanbul]. [Match type reasoning: Lacks relevance to Istanbul]."
     },
     {
       "id": 27,
       "term": "sigma klima servis izmir",
       "is_positive": 0,
       "match_type": "broad",
-      "explanation": "This term mentions a city outside Istanbul, making it irrelevant for local repair services."
+      "explanation": "[Reject reason: Specifies a city outside Istanbul]. [Match type reasoning: Lacks relevance to Istanbul]."
     },
     {
       "id": 28,
       "term": "silifke klima tamircileri",
       "is_positive": 0,
       "match_type": "broad",
-      "explanation": "This term mentions a city outside Istanbul, making it irrelevant for local repair services."
+      "explanation": "[Reject reason: Specifies a city outside Istanbul]. [Match type reasoning: Lacks relevance to Istanbul]."
     },
     {
       "id": 29,
       "term": "york klima",
       "is_positive": 0,
       "match_type": "broad",
-      "explanation": "This term refers to a specific brand service, likely seeking official support rather than repair."
+      "explanation": "[Reject reason: Lacks clear service intent]. [Match type reasoning: Generic term without repair action]."
     },
     {
       "id": 30,
       "term": "bosch servisi",
       "is_positive": 0,
       "match_type": "broad",
-      "explanation": "This term refers to a specific brand service, likely seeking official support rather than repair."
+      "explanation": "[Reject reason: Mentions official service]. [Match type reasoning: Generic term without strong repair intent]."
     }
   ]
 }
