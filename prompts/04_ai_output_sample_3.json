@@ -1,0 +1,704 @@
+{
+  "results": [
+    {
+      "id": 1,
+      "term": "büyükçekmece buzdolabı tamircisi",
+      "is_positive": 1,
+      "match_type": "exact",
+      "explanation": "Accepted. Strong repair intent with specific location."
+    },
+    {
+      "id": 2,
+      "term": "boyler servis",
+      "is_positive": 0,
+      "match_type": "broad",
+      "explanation": "Rejected. Vague and not appliance-specific."
+    },
+    {
+      "id": 3,
+      "term": "tokat profilo servis numarası",
+      "is_positive": 0,
+      "match_type": "broad",
+      "explanation": "Rejected. Mentions a location outside Istanbul and seeks contact info."
+    },
+    {
+      "id": 4,
+      "term": "arcelik servisi tel",
+      "is_positive": 0,
+      "match_type": "broad",
+      "explanation": "Rejected. Seeks official brand service contact."
+    },
+    {
+      "id": 5,
+      "term": "avcılar klimacı",
+      "is_positive": 1,
+      "match_type": "exact",
+      "explanation": "Accepted. Clear repair intent with specific location."
+    },
+    {
+      "id": 6,
+      "term": "aksu klima",
+      "is_positive": 0,
+      "match_type": "broad",
+      "explanation": "Rejected. Vague and not repair-specific."
+    },
+    {
+      "id": 7,
+      "term": "regal servis iletişim numarası",
+      "is_positive": 0,
+      "match_type": "broad",
+      "explanation": "Rejected. Seeks contact info for a brand service."
+    },
+    {
+      "id": 8,
+      "term": "afyon beyaz eşya tamircisi",
+      "is_positive": 0,
+      "match_type": "broad",
+      "explanation": "Rejected. Mentions a location outside Istanbul."
+    },
+    {
+      "id": 9,
+      "term": "dalaman bosch",
+      "is_positive": 0,
+      "match_type": "broad",
+      "explanation": "Rejected. Mentions a location outside Istanbul."
+    },
+    {
+      "id": 10,
+      "term": "lanova servisi",
+      "is_positive": 0,
+      "match_type": "broad",
+      "explanation": "Rejected. Vague and not appliance-specific."
+    },
+    {
+      "id": 11,
+      "term": "arçelik teknik servis",
+      "is_positive": 0,
+      "match_type": "broad",
+      "explanation": "Rejected. Seeks official brand service."
+    },
+    {
+      "id": 12,
+      "term": "afyon profilo servis numarası",
+      "is_positive": 0,
+      "match_type": "broad",
+      "explanation": "Rejected. Mentions a location outside Istanbul and seeks contact info."
+    },
+    {
+      "id": 13,
+      "term": "kombi servis bursa",
+      "is_positive": 0,
+      "match_type": "broad",
+      "explanation": "Rejected. Mentions a location outside Istanbul."
+    },
+    {
+      "id": 14,
+      "term": "arçelik klima bakım servisi",
+      "is_positive": 0,
+      "match_type": "broad",
+      "explanation": "Rejected. Seeks official brand service."
+    },
+    {
+      "id": 15,
+      "term": "gebze bulaşık makinesi tamircisi",
+      "is_positive": 0,
+      "match_type": "broad",
+      "explanation": "Rejected. Mentions a location outside Istanbul."
+    },
+    {
+      "id": 16,
+      "term": "kombi f",
+      "is_positive": 0,
+      "match_type": "broad",
+      "explanation": "Rejected. Vague and not repair-specific."
+    },
+    {
+      "id": 17,
+      "term": "baymak teknik servis",
+      "is_positive": 0,
+      "match_type": "broad",
+      "explanation": "Rejected. Seeks official brand service."
+    },
+    {
+      "id": 18,
+      "term": "çerkezköy çamaşır makinesi tamircisi",
+      "is_positive": 0,
+      "match_type": "broad",
+      "explanation": "Rejected. Mentions a location outside Istanbul."
+    },
+    {
+      "id": 19,
+      "term": "altus servis numarası",
+      "is_positive": 0,
+      "match_type": "broad",
+      "explanation": "Rejected. Seeks contact info for a brand service."
+    },
+    {
+      "id": 20,
+      "term": "çamaşır makinesi tamir",
+      "is_positive": 1,
+      "match_type": "phrase",
+      "explanation": "Accepted. Clear repair intent without specific location."
+    },
+    {
+      "id": 21,
+      "term": "bosch servis",
+      "is_positive": 0,
+      "match_type": "broad",
+      "explanation": "Rejected. Seeks official brand service."
+    },
+    {
+      "id": 22,
+      "term": "vestel servisi",
+      "is_positive": 0,
+      "match_type": "broad",
+      "explanation": "Rejected. Seeks official brand service."
+    },
+    {
+      "id": 23,
+      "term": "samsung servis mersin",
+      "is_positive": 0,
+      "match_type": "broad",
+      "explanation": "Rejected. Mentions a location outside Istanbul."
+    },
+    {
+      "id": 24,
+      "term": "dijitsu klima",
+      "is_positive": 0,
+      "match_type": "broad",
+      "explanation": "Rejected. Vague and not repair-specific."
+    },
+    {
+      "id": 25,
+      "term": "mersin altus servis numarası",
+      "is_positive": 0,
+      "match_type": "broad",
+      "explanation": "Rejected. Mentions a location outside Istanbul and seeks contact info."
+    },
+    {
+      "id": 26,
+      "term": "mersin buzdolabı servisi",
+      "is_positive": 0,
+      "match_type": "broad",
+      "explanation": "Rejected. Mentions a location outside Istanbul."
+    },
+    {
+      "id": 27,
+      "term": "viessmann servis numarası",
+      "is_positive": 0,
+      "match_type": "broad",
+      "explanation": "Rejected. Seeks contact info for a brand service."
+    },
+    {
+      "id": 28,
+      "term": "güzelyalı kombi servis",
+      "is_positive": 0,
+      "match_type": "broad",
+      "explanation": "Rejected. Vague and not repair-specific."
+    },
+    {
+      "id": 29,
+      "term": "klima alan yerler",
+      "is_positive": 0,
+      "match_type": "broad",
+      "explanation": "Rejected. Vague and not repair-specific."
+    },
+    {
+      "id": 30,
+      "term": "teomanpaşa baymak servisi",
+      "is_positive": 0,
+      "match_type": "broad",
+      "explanation": "Rejected. Seeks official brand service."
+    },
+    {
+      "id": 31,
+      "term": "antalya döşemealtı klima",
+      "is_positive": 0,
+      "match_type": "broad",
+      "explanation": "Rejected. Mentions a location outside Istanbul."
+    },
+    {
+      "id": 32,
+      "term": "baymak servis hurma",
+      "is_positive": 0,
+      "match_type": "broad",
+      "explanation": "Rejected. Mentions a location outside Istanbul."
+    },
+    {
+      "id": 33,
+      "term": "bursa demirtaş beyaz eşya tamircisi",
+      "is_positive": 0,
+      "match_type": "broad",
+      "explanation": "Rejected. Mentions a location outside Istanbul."
+    },
+    {
+      "id": 34,
+      "term": "tlc servis",
+      "is_positive": 0,
+      "match_type": "broad",
+      "explanation": "Rejected. Vague and not appliance-specific."
+    },
+    {
+      "id": 35,
+      "term": "vestel servisinin telefon numarası",
+      "is_positive": 0,
+      "match_type": "broad",
+      "explanation": "Rejected. Seeks contact info for a brand service."
+    },
+    {
+      "id": 36,
+      "term": "arcelik camasir makinesi reset",
+      "is_positive": 0,
+      "match_type": "broad",
+      "explanation": "Rejected. Seeks official brand service."
+    },
+    {
+      "id": 37,
+      "term": "samsung beyaz eşya servisi diyarbakır",
+      "is_positive": 0,
+      "match_type": "broad",
+      "explanation": "Rejected. Mentions a location outside Istanbul."
+    },
+    {
+      "id": 38,
+      "term": "arçelik servis",
+      "is_positive": 0,
+      "match_type": "broad",
+      "explanation": "Rejected. Seeks official brand service."
+    },
+    {
+      "id": 39,
+      "term": "bosch servisi ankara",
+      "is_positive": 0,
+      "match_type": "broad",
+      "explanation": "Rejected. Mentions a location outside Istanbul."
+    },
+    {
+      "id": 40,
+      "term": "ankara demetevler arçelik servisi",
+      "is_positive": 0,
+      "match_type": "broad",
+      "explanation": "Rejected. Mentions a location outside Istanbul."
+    },
+    {
+      "id": 41,
+      "term": "klima tamircisi ankara",
+      "is_positive": 0,
+      "match_type": "broad",
+      "explanation": "Rejected. Mentions a location outside Istanbul."
+    },
+    {
+      "id": 42,
+      "term": "beyaz eşya servis",
+      "is_positive": 0,
+      "match_type": "broad",
+      "explanation": "Rejected. Vague and not appliance-specific."
+    },
+    {
+      "id": 43,
+      "term": "buzdolabı servisi",
+      "is_positive": 1,
+      "match_type": "phrase",
+      "explanation": "Accepted. Clear repair intent without specific location."
+    },
+    {
+      "id": 44,
+      "term": "buzdolabı tamircisi kepez antalya yakınında",
+      "is_positive": 0,
+      "match_type": "broad",
+      "explanation": "Rejected. Mentions a location outside Istanbul."
+    },
+    {
+      "id": 45,
+      "term": "westinghouse servisi",
+      "is_positive": 0,
+      "match_type": "broad",
+      "explanation": "Rejected. Seeks official brand service."
+    },
+    {
+      "id": 46,
+      "term": "buzdolabı kartı tamiri",
+      "is_positive": 1,
+      "match_type": "phrase",
+      "explanation": "Accepted. Clear repair intent without specific location."
+    },
+    {
+      "id": 47,
+      "term": "seg servis iletişim",
+      "is_positive": 0,
+      "match_type": "broad",
+      "explanation": "Rejected. Seeks contact info for a brand service."
+    },
+    {
+      "id": 48,
+      "term": "inegöl buzdolabı tamircisi",
+      "is_positive": 0,
+      "match_type": "broad",
+      "explanation": "Rejected. Mentions a location outside Istanbul."
+    },
+    {
+      "id": 49,
+      "term": "buca protherm servisi",
+      "is_positive": 0,
+      "match_type": "broad",
+      "explanation": "Rejected. Mentions a location outside Istanbul."
+    },
+    {
+      "id": 50,
+      "term": "protherm kombi servisi",
+      "is_positive": 0,
+      "match_type": "broad",
+      "explanation": "Rejected. Seeks official brand service."
+    },
+    {
+      "id": 51,
+      "term": "klima servisi karşıyaka",
+      "is_positive": 0,
+      "match_type": "broad",
+      "explanation": "Rejected. Mentions a location outside Istanbul."
+    },
+    {
+      "id": 52,
+      "term": "dağlı teknik",
+      "is_positive": 0,
+      "match_type": "broad",
+      "explanation": "Rejected. Vague and not appliance-specific."
+    },
+    {
+      "id": 53,
+      "term": "altus buzdolabı servis numarası",
+      "is_positive": 0,
+      "match_type": "broad",
+      "explanation": "Rejected. Seeks contact info for a brand service."
+    },
+    {
+      "id": 54,
+      "term": "gaziantep beyaz eşya servis",
+      "is_positive": 0,
+      "match_type": "broad",
+      "explanation": "Rejected. Mentions a location outside Istanbul."
+    },
+    {
+      "id": 55,
+      "term": "daikin kombi j6 01 arızası",
+      "is_positive": 0,
+      "match_type": "broad",
+      "explanation": "Rejected. Vague and not repair-specific."
+    },
+    {
+      "id": 56,
+      "term": "kombi tamircisi esenyurt",
+      "is_positive": 0,
+      "match_type": "broad",
+      "explanation": "Rejected. Mentions a location outside Istanbul."
+    },
+    {
+      "id": 57,
+      "term": "ordu kombi servisi",
+      "is_positive": 0,
+      "match_type": "broad",
+      "explanation": "Rejected. Mentions a location outside Istanbul."
+    },
+    {
+      "id": 58,
+      "term": "arçelik beyaz eşya servis numarası",
+      "is_positive": 0,
+      "match_type": "broad",
+      "explanation": "Rejected. Seeks contact info for a brand service."
+    },
+    {
+      "id": 59,
+      "term": "buzdolabı servisi",
+      "is_positive": 1,
+      "match_type": "phrase",
+      "explanation": "Accepted. Clear repair intent without specific location."
+    },
+    {
+      "id": 60,
+      "term": "eca kombi servis",
+      "is_positive": 0,
+      "match_type": "broad",
+      "explanation": "Rejected. Seeks official brand service."
+    },
+    {
+      "id": 61,
+      "term": "daikin klima servisi",
+      "is_positive": 0,
+      "match_type": "broad",
+      "explanation": "Rejected. Seeks official brand service."
+    },
+    {
+      "id": 62,
+      "term": "arçelik klima servis",
+      "is_positive": 0,
+      "match_type": "broad",
+      "explanation": "Rejected. Seeks official brand service."
+    },
+    {
+      "id": 63,
+      "term": "balıkesir klima tamiri",
+      "is_positive": 0,
+      "match_type": "broad",
+      "explanation": "Rejected. Mentions a location outside Istanbul."
+    },
+    {
+      "id": 64,
+      "term": "menemen klima servisleri",
+      "is_positive": 0,
+      "match_type": "broad",
+      "explanation": "Rejected. Vague and not repair-specific."
+    },
+    {
+      "id": 65,
+      "term": "klima tamircisi",
+      "is_positive": 0,
+      "match_type": "broad",
+      "explanation": "Rejected. Vague and not location-specific."
+    },
+    {
+      "id": 66,
+      "term": "arçelik teknik servis",
+      "is_positive": 0,
+      "match_type": "broad",
+      "explanation": "Rejected. Seeks official brand service."
+    },
+    {
+      "id": 67,
+      "term": "çamaşır makinesi tamircisi",
+      "is_positive": 1,
+      "match_type": "phrase",
+      "explanation": "Accepted. Clear repair intent without specific location."
+    },
+    {
+      "id": 68,
+      "term": "regal servis numarası",
+      "is_positive": 0,
+      "match_type": "broad",
+      "explanation": "Rejected. Seeks contact info for a brand service."
+    },
+    {
+      "id": 69,
+      "term": "beko buzdolabı servisi telefon numarası",
+      "is_positive": 0,
+      "match_type": "broad",
+      "explanation": "Rejected. Seeks contact info for a brand service."
+    },
+    {
+      "id": 70,
+      "term": "dağbeli vaillant servis",
+      "is_positive": 0,
+      "match_type": "broad",
+      "explanation": "Rejected. Seeks official brand service."
+    },
+    {
+      "id": 71,
+      "term": "silivri buzdolabı tamircisi",
+      "is_positive": 0,
+      "match_type": "broad",
+      "explanation": "Rejected. Mentions a location outside Istanbul."
+    },
+    {
+      "id": 72,
+      "term": "servis beyaz eşya",
+      "is_positive": 0,
+      "match_type": "broad",
+      "explanation": "Rejected. Vague and not appliance-specific."
+    },
+    {
+      "id": 73,
+      "term": "kağıthane beyaz eşya tamircisi",
+      "is_positive": 1,
+      "match_type": "exact",
+      "explanation": "Accepted. Clear repair intent with specific location."
+    },
+    {
+      "id": 74,
+      "term": "başakşehir buzdolabı tamircisi",
+      "is_positive": 1,
+      "match_type": "exact",
+      "explanation": "Accepted. Clear repair intent with specific location."
+    },
+    {
+      "id": 75,
+      "term": "maltepe beyaz eşya tamircisi",
+      "is_positive": 1,
+      "match_type": "exact",
+      "explanation": "Accepted. Clear repair intent with specific location."
+    },
+    {
+      "id": 76,
+      "term": "sefaköy beyaz eşya tamircisi",
+      "is_positive": 1,
+      "match_type": "exact",
+      "explanation": "Accepted. Clear repair intent with specific location."
+    },
+    {
+      "id": 77,
+      "term": "buzdolabi tamircisi",
+      "is_positive": 1,
+      "match_type": "phrase",
+      "explanation": "Accepted. Clear repair intent without specific location."
+    },
+    {
+      "id": 78,
+      "term": "içerenköy buzdolabı tamircisi",
+      "is_positive": 1,
+      "match_type": "exact",
+      "explanation": "Accepted. Clear repair intent with specific location."
+    },
+    {
+      "id": 79,
+      "term": "arnavutköy uydu tamircisi",
+      "is_positive": 0,
+      "match_type": "broad",
+      "explanation": "Rejected. Vague and not appliance-specific."
+    },
+    {
+      "id": 80,
+      "term": "kurtköy televizyon tamircisi",
+      "is_positive": 0,
+      "match_type": "broad",
+      "explanation": "Rejected. Vague and not appliance-specific."
+    },
+    {
+      "id": 81,
+      "term": "klima borusu",
+      "is_positive": 0,
+      "match_type": "broad",
+      "explanation": "Rejected. Vague and not repair-specific."
+    },
+    {
+      "id": 82,
+      "term": "arçelik tamircisi",
+      "is_positive": 0,
+      "match_type": "broad",
+      "explanation": "Rejected. Seeks official brand service."
+    },
+    {
+      "id": 83,
+      "term": "eca diyarbakır servis",
+      "is_positive": 0,
+      "match_type": "broad",
+      "explanation": "Rejected. Mentions a location outside Istanbul."
+    },
+    {
+      "id": 84,
+      "term": "dijitsu klima",
+      "is_positive": 0,
+      "match_type": "broad",
+      "explanation": "Rejected. Vague and not repair-specific."
+    },
+    {
+      "id": 85,
+      "term": "oto klima kompresörü arızası",
+      "is_positive": 1,
+      "match_type": "phrase",
+      "explanation": "Accepted. Clear repair intent without specific location."
+    },
+    {
+      "id": 86,
+      "term": "franke servis antalya",
+      "is_positive": 0,
+      "match_type": "broad",
+      "explanation": "Rejected. Mentions a location outside Istanbul."
+    },
+    {
+      "id": 87,
+      "term": "yıldırım klima servisi",
+      "is_positive": 0,
+      "match_type": "broad",
+      "explanation": "Rejected. Mentions a location outside Istanbul."
+    },
+    {
+      "id": 88,
+      "term": "kombi servisi",
+      "is_positive": 0,
+      "match_type": "broad",
+      "explanation": "Rejected. Vague and not repair-specific."
+    },
+    {
+      "id": 89,
+      "term": "vestel çamaşır makinesi servis",
+      "is_positive": 0,
+      "match_type": "broad",
+      "explanation": "Rejected. Seeks official brand service."
+    },
+    {
+      "id": 90,
+      "term": "dijitsu klima servisi",
+      "is_positive": 0,
+      "match_type": "broad",
+      "explanation": "Rejected. Seeks official brand service."
+    },
+    {
+      "id": 91,
+      "term": "şaşmaz klima",
+      "is_positive": 0,
+      "match_type": "broad",
+      "explanation": "Rejected. Vague and not repair-specific."
+    },
+    {
+      "id": 92,
+      "term": "akçay klima",
+      "is_positive": 0,
+      "match_type": "broad",
+      "explanation": "Rejected. Vague and not repair-specific."
+    },
+    {
+      "id": 93,
+      "term": "regal buzdolabı servis",
+      "is_positive": 0,
+      "match_type": "broad",
+      "explanation": "Rejected. Seeks official brand service."
+    },
+    {
+      "id": 94,
+      "term": "kombici",
+      "is_positive": 0,
+      "match_type": "broad",
+      "explanation": "Rejected. Vague and not repair-specific."
+    },
+    {
+      "id": 95,
+      "term": "bursa vestel servisi telefon numarası",
+      "is_positive": 0,
+      "match_type": "broad",
+      "explanation": "Rejected. Seeks contact info for a brand service."
+    },
+    {
+      "id": 96,
+      "term": "samsung buzdolabı servis",
+      "is_positive": 0,
+      "match_type": "broad",
+      "explanation": "Rejected. Seeks official brand service."
+    },
+    {
+      "id": 97,
+      "term": "hüseyin ocaklı",
+      "is_positive": 0,
+      "match_type": "broad",
+      "explanation": "Rejected. Vague and not appliance-specific."
+    },
+    {
+      "id": 98,
+      "term": "antalya oto klima gazı",
+      "is_positive": 0,
+      "match_type": "broad",
+      "explanation": "Rejected. Mentions a location outside Istanbul."
+    },
+    {
+      "id": 99,
+      "term": "demrad klima",
+      "is_positive": 0,
+      "match_type": "broad",
+      "explanation": "Rejected. Vague and not repair-specific."
+    },
+    {
+      "id": 100,
+      "term": "buzdolabı tamir",
+      "is_positive": 1,
+      "match_type": "phrase",
+      "explanation": "Accepted. Clear repair intent without specific location."
+    }
+  ]
+}
