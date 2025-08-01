@@ -34,7 +34,7 @@ for json_file, sheet_name in json_files:
     df = pd.DataFrame(records)
 
     # is_positive alanını dönüştür
-    df["is_positive"] = df["is_positive"].map({1: "Evet", 0: "Hayır"})
+    df["is_positive"] = df["is_positive"].map({1: "Yes", 0: "No"})
 
     # Excel'e yaz — ilk seferde 'mode=w', sonrakilerde 'a'
     if not os.path.exists(output_excel):
@@ -74,7 +74,7 @@ for sheet_name in wb.sheetnames:
     headers = [cell.value for cell in ws[1]]
     is_positive_idx = headers.index("is_positive") + 1
     for row in ws.iter_rows(min_row=2, max_row=ws.max_row):
-        if row[is_positive_idx - 1].value == "Hayır":
+        if row[is_positive_idx - 1].value == "No":
             for cell in row:
                 cell.fill = highlight_fill
 
