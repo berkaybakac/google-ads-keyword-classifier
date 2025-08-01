@@ -7,10 +7,8 @@ import os
 
 # Giriş JSON dosyaları ve sheet adları
 json_files = [
-    ("prompts/04_ai_output_sample_1.json", "test1_30_Keywords_Report"),
-    ("prompts/04_ai_output_sample_2.json", "test2_50_Keywords_Report"),
-    ("prompts/04_ai_output_sample_3.json", "test3_100_Keywords_Report"),
-    ("prompts/04_ai_output_sample_4.json", "test4_100_Keywords_Report")
+    ("prompts/04_output_Ankara klima servisi.json", "Ankara_Klima_Servisi"),
+    ("prompts/04_output_İstanbul beyaz eşya servisi.json", "Istanbul_Beyaz_Esya")
 ]
 
 # Çıkış dosyası adı
