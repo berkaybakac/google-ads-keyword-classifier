@@ -1,0 +1,354 @@
+{
+  "results": [
+    {
+      "id": 1,
+      "term": "klima tamir",
+      "is_positive": 0,
+      "match_type": "broad",
+      "explanation": "Rejected. Query refers to klima, which is outside the KOMBİ domain."
+    },
+    {
+      "id": 2,
+      "term": "baymak servis meydankavağı",
+      "is_positive": 0,
+      "match_type": "broad",
+      "explanation": "Rejected. Query implies an official service for Baymak, which is not allowed."
+    },
+    {
+      "id": 3,
+      "term": "klima antalya",
+      "is_positive": 0,
+      "match_type": "broad",
+      "explanation": "Rejected. Query refers to klima and is location-specific to Antalya."
+    },
+    {
+      "id": 4,
+      "term": "menemen klima servis",
+      "is_positive": 0,
+      "match_type": "broad",
+      "explanation": "Rejected. Query refers to klima and is location-specific to Menemen."
+    },
+    {
+      "id": 5,
+      "term": "ariston servis izmir",
+      "is_positive": 0,
+      "match_type": "broad",
+      "explanation": "Rejected. Query implies an official service for Ariston, which is not allowed."
+    },
+    {
+      "id": 6,
+      "term": "windsor servis numarası",
+      "is_positive": 0,
+      "match_type": "broad",
+      "explanation": "Rejected. Query implies an official service contact number, which is not allowed."
+    },
+    {
+      "id": 7,
+      "term": "arçelik servisi",
+      "is_positive": 0,
+      "match_type": "broad",
+      "explanation": "Rejected. Query implies an official service for Arçelik, which is not allowed."
+    },
+    {
+      "id": 8,
+      "term": "arçelik klima",
+      "is_positive": 0,
+      "match_type": "broad",
+      "explanation": "Rejected. Query refers to klima, which is outside the KOMBİ domain."
+    },
+    {
+      "id": 9,
+      "term": "windsor teknik servis",
+      "is_positive": 0,
+      "match_type": "broad",
+      "explanation": "Rejected. Query implies an official service for Windsor, which is not allowed."
+    },
+    {
+      "id": 10,
+      "term": "alarko servis balıkesir",
+      "is_positive": 0,
+      "match_type": "broad",
+      "explanation": "Rejected. Query implies an official service for Alarko, which is not allowed."
+    },
+    {
+      "id": 11,
+      "term": "regal buzdolabı",
+      "is_positive": 0,
+      "match_type": "broad",
+      "explanation": "Rejected. Query refers to a product outside the KOMBİ domain."
+    },
+    {
+      "id": 12,
+      "term": "endüstriyel dolap tamircisi",
+      "is_positive": 0,
+      "match_type": "broad",
+      "explanation": "Rejected. Query refers to a product outside the KOMBİ domain."
+    },
+    {
+      "id": 13,
+      "term": "silverline servis izmir",
+      "is_positive": 0,
+      "match_type": "broad",
+      "explanation": "Rejected. Query implies an official service for Silverline, which is not allowed."
+    },
+    {
+      "id": 14,
+      "term": "mersin çamaşır makinesi tamircisi",
+      "is_positive": 0,
+      "match_type": "broad",
+      "explanation": "Rejected. Query refers to a product outside the KOMBİ domain."
+    },
+    {
+      "id": 15,
+      "term": "izmir kombi bakım servisi",
+      "is_positive": 0,
+      "match_type": "broad",
+      "explanation": "Rejected. Location is outside the target city ANKARA."
+    },
+    {
+      "id": 16,
+      "term": "duraliler baymak servisi",
+      "is_positive": 0,
+      "match_type": "broad",
+      "explanation": "Rejected. Query implies an official service for Baymak, which is not allowed."
+    },
+    {
+      "id": 17,
+      "term": "baymak servisi çağlayan",
+      "is_positive": 0,
+      "match_type": "broad",
+      "explanation": "Rejected. Query implies an official service for Baymak, which is not allowed."
+    },
+    {
+      "id": 18,
+      "term": "konyaaltı demirdöküm servisi",
+      "is_positive": 0,
+      "match_type": "broad",
+      "explanation": "Rejected. Query implies an official service for Demirdöküm, which is not allowed."
+    },
+    {
+      "id": 19,
+      "term": "ahatlı vaillant servisi",
+      "is_positive": 0,
+      "match_type": "broad",
+      "explanation": "Rejected. Query implies an official service for Vaillant, which is not allowed."
+    },
+    {
+      "id": 20,
+      "term": "üçgen baymak servis",
+      "is_positive": 0,
+      "match_type": "broad",
+      "explanation": "Rejected. Query implies an official service for Baymak, which is not allowed."
+    },
+    {
+      "id": 21,
+      "term": "samsung buzdolabı tamircisi",
+      "is_positive": 0,
+      "match_type": "broad",
+      "explanation": "Rejected. Query refers to a product outside the KOMBİ domain."
+    },
+    {
+      "id": 22,
+      "term": "akçay çamaşır makinesi tamircisi",
+      "is_positive": 0,
+      "match_type": "broad",
+      "explanation": "Rejected. Query refers to a product outside the KOMBİ domain."
+    },
+    {
+      "id": 23,
+      "term": "buzdolabı tamircisi",
+      "is_positive": 0,
+      "match_type": "broad",
+      "explanation": "Rejected. Query refers to a product outside the KOMBİ domain."
+    },
+    {
+      "id": 24,
+      "term": "bahçelievler kombi servisi",
+      "is_positive": 1,
+      "match_type": "exact",
+      "explanation": "Accepted. Query shows clear third-party repair intent for KOMBİ in ANKARA."
+    },
+    {
+      "id": 25,
+      "term": "uzman kombi klima",
+      "is_positive": 0,
+      "match_type": "broad",
+      "explanation": "Rejected. Query refers to klima, which is outside the KOMBİ domain."
+    },
+    {
+      "id": 26,
+      "term": "dolap tamircisi",
+      "is_positive": 0,
+      "match_type": "broad",
+      "explanation": "Rejected. Query refers to a product outside the KOMBİ domain."
+    },
+    {
+      "id": 27,
+      "term": "hotpoint ariston buzdolabı servis numarası",
+      "is_positive": 0,
+      "match_type": "broad",
+      "explanation": "Rejected. Query implies an official service contact number, which is not allowed."
+    },
+    {
+      "id": 28,
+      "term": "karaköprü arçelik servisi",
+      "is_positive": 0,
+      "match_type": "broad",
+      "explanation": "Rejected. Query implies an official service for Arçelik, which is not allowed."
+    },
+    {
+      "id": 29,
+      "term": "altus buzdolabı servis",
+      "is_positive": 0,
+      "match_type": "broad",
+      "explanation": "Rejected. Query refers to a product outside the KOMBİ domain."
+    },
+    {
+      "id": 30,
+      "term": "arçelik servis",
+      "is_positive": 0,
+      "match_type": "broad",
+      "explanation": "Rejected. Query implies an official service for Arçelik, which is not allowed."
+    },
+    {
+      "id": 31,
+      "term": "seg servis",
+      "is_positive": 0,
+      "match_type": "broad",
+      "explanation": "Rejected. Query implies an official service for Seg, which is not allowed."
+    },
+    {
+      "id": 32,
+      "term": "bulaşık makinesi tamircisi",
+      "is_positive": 0,
+      "match_type": "broad",
+      "explanation": "Rejected. Query refers to a product outside the KOMBİ domain."
+    },
+    {
+      "id": 33,
+      "term": "buzdolabı servisi",
+      "is_positive": 0,
+      "match_type": "broad",
+      "explanation": "Rejected. Query refers to a product outside the KOMBİ domain."
+    },
+    {
+      "id": 34,
+      "term": "etlik kombi",
+      "is_positive": 1,
+      "match_type": "exact",
+      "explanation": "Accepted. Query shows clear third-party repair intent for KOMBİ in ANKARA."
+    },
+    {
+      "id": 35,
+      "term": "görükle çamaşır makinesi tamiri",
+      "is_positive": 0,
+      "match_type": "broad",
+      "explanation": "Rejected. Query refers to a product outside the KOMBİ domain."
+    },
+    {
+      "id": 36,
+      "term": "vaillant servis topallı",
+      "is_positive": 0,
+      "match_type": "broad",
+      "explanation": "Rejected. Query implies an official service for Vaillant, which is not allowed."
+    },
+    {
+      "id": 37,
+      "term": "tahılpazarı vaillant servis",
+      "is_positive": 0,
+      "match_type": "broad",
+      "explanation": "Rejected. Query implies an official service for Vaillant, which is not allowed."
+    },
+    {
+      "id": 38,
+      "term": "indesit servis",
+      "is_positive": 0,
+      "match_type": "broad",
+      "explanation": "Rejected. Query implies an official service for Indesit, which is not allowed."
+    },
+    {
+      "id": 39,
+      "term": "whirlpool servisi",
+      "is_positive": 0,
+      "match_type": "broad",
+      "explanation": "Rejected. Query implies an official service for Whirlpool, which is not allowed."
+    },
+    {
+      "id": 40,
+      "term": "servis world",
+      "is_positive": 0,
+      "match_type": "broad",
+      "explanation": "Rejected. Query is vague and does not specify KOMBİ or repair intent."
+    },
+    {
+      "id": 41,
+      "term": "arnavutkoy arcelik teknik servis",
+      "is_positive": 0,
+      "match_type": "broad",
+      "explanation": "Rejected. Query implies an official service for Arçelik, which is not allowed."
+    },
+    {
+      "id": 42,
+      "term": "buzdolabı arçelik",
+      "is_positive": 0,
+      "match_type": "broad",
+      "explanation": "Rejected. Query refers to a product outside the KOMBİ domain."
+    },
+    {
+      "id": 43,
+      "term": "grundig servis",
+      "is_positive": 0,
+      "match_type": "broad",
+      "explanation": "Rejected. Query implies an official service for Grundig, which is not allowed."
+    },
+    {
+      "id": 44,
+      "term": "hoover servis esenyurt",
+      "is_positive": 0,
+      "match_type": "broad",
+      "explanation": "Rejected. Query implies an official service for Hoover, which is not allowed."
+    },
+    {
+      "id": 45,
+      "term": "sultanbeyli beyaz eşya tamircisi",
+      "is_positive": 0,
+      "match_type": "broad",
+      "explanation": "Rejected. Query refers to a product outside the KOMBİ domain."
+    },
+    {
+      "id": 46,
+      "term": "vestel dijital ekranlı buzdolabı",
+      "is_positive": 0,
+      "match_type": "broad",
+      "explanation": "Rejected. Query refers to a product outside the KOMBİ domain."
+    },
+    {
+      "id": 47,
+      "term": "buzdolabı tamircisi buca izmir yakınında",
+      "is_positive": 0,
+      "match_type": "broad",
+      "explanation": "Rejected. Location is outside the target city ANKARA."
+    },
+    {
+      "id": 48,
+      "term": "samsung klima servis izmir",
+      "is_positive": 0,
+      "match_type": "broad",
+      "explanation": "Rejected. Query implies an official service for Samsung and refers to klima, which is outside the KOMBİ domain."
+    },
+    {
+      "id": 49,
+      "term": "görükle televizyon tamircisi",
+      "is_positive": 0,
+      "match_type": "broad",
+      "explanation": "Rejected. Query refers to a product outside the KOMBİ domain."
+    },
+    {
+      "id": 50,
+      "term": "tv tamiri",
+      "is_positive": 0,
+      "match_type": "broad",
+      "explanation": "Rejected. Query refers to a product outside the KOMBİ domain."
+    }
+  ]
+}

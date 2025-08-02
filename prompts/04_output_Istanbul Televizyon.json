@@ -1,0 +1,354 @@
+{
+  "results": [
+    {
+      "id": 1,
+      "term": "bulaşık makinesi temizleme",
+      "is_positive": 0,
+      "match_type": "broad",
+      "explanation": "Rejected. Query refers to a product outside the TELEVİZYON domain."
+    },
+    {
+      "id": 2,
+      "term": "buzdolap tamircisi",
+      "is_positive": 0,
+      "match_type": "broad",
+      "explanation": "Rejected. Query refers to a product outside the TELEVİZYON domain."
+    },
+    {
+      "id": 3,
+      "term": "beylikdüzü bulaşık makinesi tamircisi",
+      "is_positive": 0,
+      "match_type": "broad",
+      "explanation": "Rejected. Query refers to a product outside the TELEVİZYON domain."
+    },
+    {
+      "id": 4,
+      "term": "esco teknik servis",
+      "is_positive": 0,
+      "match_type": "broad",
+      "explanation": "Rejected. Vague query with no clear service intent for TELEVİZYON."
+    },
+    {
+      "id": 5,
+      "term": "araç buzdolabı servisi",
+      "is_positive": 0,
+      "match_type": "broad",
+      "explanation": "Rejected. Query refers to a product outside the TELEVİZYON domain."
+    },
+    {
+      "id": 6,
+      "term": "arçelik buzdolabı servisi",
+      "is_positive": 0,
+      "match_type": "broad",
+      "explanation": "Rejected. Query refers to a product outside the TELEVİZYON domain."
+    },
+    {
+      "id": 7,
+      "term": "eyüp beyaz eşya servisi",
+      "is_positive": 0,
+      "match_type": "broad",
+      "explanation": "Rejected. Vague query with no clear service intent for TELEVİZYON."
+    },
+    {
+      "id": 8,
+      "term": "uğur derin dondurucu servisi telefon numarası",
+      "is_positive": 0,
+      "match_type": "broad",
+      "explanation": "Rejected. Query refers to a product outside the TELEVİZYON domain."
+    },
+    {
+      "id": 9,
+      "term": "en yakın toshiba servisi",
+      "is_positive": 0,
+      "match_type": "broad",
+      "explanation": "Rejected. Implies official service intent."
+    },
+    {
+      "id": 10,
+      "term": "profilo buzdolabı",
+      "is_positive": 0,
+      "match_type": "broad",
+      "explanation": "Rejected. Query refers to a product outside the TELEVİZYON domain."
+    },
+    {
+      "id": 11,
+      "term": "hoover servis telefon",
+      "is_positive": 0,
+      "match_type": "broad",
+      "explanation": "Rejected. Vague query with no clear service intent for TELEVİZYON."
+    },
+    {
+      "id": 12,
+      "term": "klimacı",
+      "is_positive": 0,
+      "match_type": "broad",
+      "explanation": "Rejected. Query refers to a product outside the TELEVİZYON domain."
+    },
+    {
+      "id": 13,
+      "term": "tv montajı",
+      "is_positive": 1,
+      "match_type": "phrase",
+      "explanation": "Accepted. Query shows clear service intent related to TELEVİZYON."
+    },
+    {
+      "id": 14,
+      "term": "sultanbeyli tv tamircisi",
+      "is_positive": 1,
+      "match_type": "exact",
+      "explanation": "Accepted. Query shows clear third-party repair intent for TELEVİZYON in ISTANBUL."
+    },
+    {
+      "id": 15,
+      "term": "lambert servis",
+      "is_positive": 0,
+      "match_type": "broad",
+      "explanation": "Rejected. Vague query with no clear service intent for TELEVİZYON."
+    },
+    {
+      "id": 16,
+      "term": "çamaşır makine tamircisi",
+      "is_positive": 0,
+      "match_type": "broad",
+      "explanation": "Rejected. Query refers to a product outside the TELEVİZYON domain."
+    },
+    {
+      "id": 17,
+      "term": "tv tamiri",
+      "is_positive": 1,
+      "match_type": "phrase",
+      "explanation": "Accepted. Query shows clear third-party repair intent for TELEVİZYON."
+    },
+    {
+      "id": 18,
+      "term": "bursa televizyon tamiri",
+      "is_positive": 0,
+      "match_type": "broad",
+      "explanation": "Rejected. Location is outside the target city ISTANBUL."
+    },
+    {
+      "id": 19,
+      "term": "televizyon tamircisi bursa",
+      "is_positive": 0,
+      "match_type": "broad",
+      "explanation": "Rejected. Location is outside the target city ISTANBUL."
+    },
+    {
+      "id": 20,
+      "term": "diyarbakır klima temizleme",
+      "is_positive": 0,
+      "match_type": "broad",
+      "explanation": "Rejected. Query refers to a product outside the TELEVİZYON domain."
+    },
+    {
+      "id": 21,
+      "term": "kombi servisi telefon numarası",
+      "is_positive": 0,
+      "match_type": "broad",
+      "explanation": "Rejected. Query refers to a product outside the TELEVİZYON domain."
+    },
+    {
+      "id": 22,
+      "term": "bursa beyaz eşya servisi",
+      "is_positive": 0,
+      "match_type": "broad",
+      "explanation": "Rejected. Vague query with no clear service intent for TELEVİZYON."
+    },
+    {
+      "id": 23,
+      "term": "televizyon tamircisi",
+      "is_positive": 1,
+      "match_type": "phrase",
+      "explanation": "Accepted. Query shows clear third-party repair intent for TELEVİZYON."
+    },
+    {
+      "id": 24,
+      "term": "samsun kombi servisi",
+      "is_positive": 0,
+      "match_type": "broad",
+      "explanation": "Rejected. Query refers to a product outside the TELEVİZYON domain."
+    },
+    {
+      "id": 25,
+      "term": "klima tamir",
+      "is_positive": 0,
+      "match_type": "broad",
+      "explanation": "Rejected. Query refers to a product outside the TELEVİZYON domain."
+    },
+    {
+      "id": 26,
+      "term": "inegöl beyaz eşya tamircisi",
+      "is_positive": 0,
+      "match_type": "broad",
+      "explanation": "Rejected. Vague query with no clear service intent for TELEVİZYON."
+    },
+    {
+      "id": 27,
+      "term": "inegöl çamaşır makinesi tamircisi",
+      "is_positive": 0,
+      "match_type": "broad",
+      "explanation": "Rejected. Query refers to a product outside the TELEVİZYON domain."
+    },
+    {
+      "id": 28,
+      "term": "bulaşık makinesi tamircisi",
+      "is_positive": 0,
+      "match_type": "broad",
+      "explanation": "Rejected. Query refers to a product outside the TELEVİZYON domain."
+    },
+    {
+      "id": 29,
+      "term": "kılimacı",
+      "is_positive": 0,
+      "match_type": "broad",
+      "explanation": "Rejected. Query refers to a product outside the TELEVİZYON domain."
+    },
+    {
+      "id": 30,
+      "term": "avcılar klima",
+      "is_positive": 0,
+      "match_type": "broad",
+      "explanation": "Rejected. Query refers to a product outside the TELEVİZYON domain."
+    },
+    {
+      "id": 31,
+      "term": "araç klima tamircisi",
+      "is_positive": 0,
+      "match_type": "broad",
+      "explanation": "Rejected. Query refers to a product outside the TELEVİZYON domain."
+    },
+    {
+      "id": 32,
+      "term": "warmhaus kombi servis",
+      "is_positive": 0,
+      "match_type": "broad",
+      "explanation": "Rejected. Query refers to a product outside the TELEVİZYON domain."
+    },
+    {
+      "id": 33,
+      "term": "kombi iletişim",
+      "is_positive": 0,
+      "match_type": "broad",
+      "explanation": "Rejected. Vague query with no clear service intent for TELEVİZYON."
+    },
+    {
+      "id": 34,
+      "term": "bursa baymak servis",
+      "is_positive": 0,
+      "match_type": "broad",
+      "explanation": "Rejected. Query refers to a product outside the TELEVİZYON domain."
+    },
+    {
+      "id": 35,
+      "term": "profilo servis",
+      "is_positive": 0,
+      "match_type": "broad",
+      "explanation": "Rejected. Implies official service intent."
+    },
+    {
+      "id": 36,
+      "term": "beyaz eşya tamircisi antalya",
+      "is_positive": 0,
+      "match_type": "broad",
+      "explanation": "Rejected. Location is outside the target city ISTANBUL."
+    },
+    {
+      "id": 37,
+      "term": "turhal klima servisi",
+      "is_positive": 0,
+      "match_type": "broad",
+      "explanation": "Rejected. Query refers to a product outside the TELEVİZYON domain."
+    },
+    {
+      "id": 38,
+      "term": "karaköprü klima tamircisi",
+      "is_positive": 0,
+      "match_type": "broad",
+      "explanation": "Rejected. Query refers to a product outside the TELEVİZYON domain."
+    },
+    {
+      "id": 39,
+      "term": "baymak klima iletişim",
+      "is_positive": 0,
+      "match_type": "broad",
+      "explanation": "Rejected. Vague query with no clear service intent for TELEVİZYON."
+    },
+    {
+      "id": 40,
+      "term": "mersin vestel servisi telefon numarası",
+      "is_positive": 0,
+      "match_type": "broad",
+      "explanation": "Rejected. Implies official service intent."
+    },
+    {
+      "id": 41,
+      "term": "seg buzdolabı servis",
+      "is_positive": 0,
+      "match_type": "broad",
+      "explanation": "Rejected. Query refers to a product outside the TELEVİZYON domain."
+    },
+    {
+      "id": 42,
+      "term": "ikitelli klima",
+      "is_positive": 0,
+      "match_type": "broad",
+      "explanation": "Rejected. Query refers to a product outside the TELEVİZYON domain."
+    },
+    {
+      "id": 43,
+      "term": "airfel klima servis numarası şanlıurfa",
+      "is_positive": 0,
+      "match_type": "broad",
+      "explanation": "Rejected. Location is outside the target city ISTANBUL."
+    },
+    {
+      "id": 44,
+      "term": "kıwı servis",
+      "is_positive": 0,
+      "match_type": "broad",
+      "explanation": "Rejected. Vague query with no clear service intent for TELEVİZYON."
+    },
+    {
+      "id": 45,
+      "term": "mordoğan klima servisi",
+      "is_positive": 0,
+      "match_type": "broad",
+      "explanation": "Rejected. Query refers to a product outside the TELEVİZYON domain."
+    },
+    {
+      "id": 46,
+      "term": "çamaşır makinesi servisi",
+      "is_positive": 0,
+      "match_type": "broad",
+      "explanation": "Rejected. Query refers to a product outside the TELEVİZYON domain."
+    },
+    {
+      "id": 47,
+      "term": "arçelik servis",
+      "is_positive": 0,
+      "match_type": "broad",
+      "explanation": "Rejected. Implies official service intent."
+    },
+    {
+      "id": 48,
+      "term": "whirlpool buzdolabı sa arızası",
+      "is_positive": 0,
+      "match_type": "broad",
+      "explanation": "Rejected. Query refers to a product outside the TELEVİZYON domain."
+    },
+    {
+      "id": 49,
+      "term": "nilufer bosch servisi",
+      "is_positive": 0,
+      "match_type": "broad",
+      "explanation": "Rejected. Implies official service intent."
+    },
+    {
+      "id": 50,
+      "term": "bursa teknik servis beyaz eşya servisi",
+      "is_positive": 0,
+      "match_type": "broad",
+      "explanation": "Rejected. Vague query with no clear service intent for TELEVİZYON."
+    }
+  ]
+}

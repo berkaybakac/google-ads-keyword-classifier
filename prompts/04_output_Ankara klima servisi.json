@@ -2,444 +2,353 @@
   "results": [
     {
       "id": 1,
-      "term": "didim vestel servisi telefon numarası",
+      "term": "şile klima",
       "is_positive": 0,
       "match_type": "broad",
-      "explanation": "Rejected. Implies official service and seeks contact information."
+      "explanation": "Rejected. Location is outside the target city ANKARA."
     },
     {
       "id": 2,
-      "term": "cebeci klima teknik servis",
-      "is_positive": 1,
-      "match_type": "exact",
-      "explanation": "Accepted. Clear air conditioner repair intent with specific location in Ankara."
+      "term": "nizip klima servisi",
+      "is_positive": 0,
+      "match_type": "broad",
+      "explanation": "Rejected. Location is outside the target city ANKARA."
     },
     {
       "id": 3,
-      "term": "warmhaus kombi servis",
+      "term": "basaksehir klima teknik servis",
       "is_positive": 0,
       "match_type": "broad",
-      "explanation": "Rejected. Refers to a different appliance (kombi) which is not relevant."
+      "explanation": "Rejected. Location is outside the target city ANKARA."
     },
     {
       "id": 4,
-      "term": "viessmann servis telefon",
+      "term": "pendik klimacı",
       "is_positive": 0,
       "match_type": "broad",
-      "explanation": "Rejected. Implies official service and seeks contact information."
+      "explanation": "Rejected. Location is outside the target city ANKARA."
     },
     {
       "id": 5,
-      "term": "tomalar buderus servisi",
+      "term": "marmaris buzdolabı tamircisi",
       "is_positive": 0,
       "match_type": "broad",
-      "explanation": "Rejected. Implies official service."
+      "explanation": "Rejected. Query refers to a product outside the KLİMA domain."
     },
     {
       "id": 6,
-      "term": "ahırtaş baymak servisi",
+      "term": "kombi bursa",
       "is_positive": 0,
       "match_type": "broad",
-      "explanation": "Rejected. Implies official service."
+      "explanation": "Rejected. Query refers to a product outside the KLİMA domain."
     },
     {
       "id": 7,
-      "term": "baymak servisi atatürk",
+      "term": "lg klima servisi bursa",
       "is_positive": 0,
       "match_type": "broad",
-      "explanation": "Rejected. Implies official service."
+      "explanation": "Rejected. Location is outside the target city ANKARA."
     },
     {
       "id": 8,
-      "term": "demirdöküm servis yenidumanlar",
+      "term": "dolap tamircisi",
       "is_positive": 0,
       "match_type": "broad",
-      "explanation": "Rejected. Implies official service."
+      "explanation": "Rejected. Query refers to a product outside the KLİMA domain."
     },
     {
       "id": 9,
-      "term": "ünsal vaillant servisi",
+      "term": "aydın daikin klima servisi",
       "is_positive": 0,
       "match_type": "broad",
-      "explanation": "Rejected. Implies official service."
+      "explanation": "Rejected. Location is outside the target city ANKARA."
     },
     {
       "id": 10,
-      "term": "demirdöküm servisi uluç",
+      "term": "çamaşır makine tamircisi",
       "is_positive": 0,
       "match_type": "broad",
-      "explanation": "Rejected. Implies official service."
+      "explanation": "Rejected. Query refers to a product outside the KLİMA domain."
     },
     {
       "id": 11,
-      "term": "öğretmenevleri baymak servisi",
+      "term": "mersin silverline servis",
       "is_positive": 0,
       "match_type": "broad",
-      "explanation": "Rejected. Implies official service."
+      "explanation": "Rejected. Location is outside the target city ANKARA."
     },
     {
       "id": 12,
-      "term": "beyaz eşya tamircisi",
+      "term": "dijitsu klima servis",
       "is_positive": 0,
       "match_type": "broad",
-      "explanation": "Rejected. Refers to unrelated appliance category."
+      "explanation": "Rejected. Location is outside the target city ANKARA."
     },
     {
       "id": 13,
-      "term": "arçelik klima servis numarası",
+      "term": "siemens tamircisi",
       "is_positive": 0,
       "match_type": "broad",
-      "explanation": "Rejected. Implies official service and seeks contact information."
+      "explanation": "Rejected. Query refers to a product outside the KLİMA domain."
     },
     {
       "id": 14,
-      "term": "sanica iletişim",
+      "term": "bosch fırın alt pişirmiyor",
       "is_positive": 0,
       "match_type": "broad",
-      "explanation": "Rejected. Seeks contact information."
+      "explanation": "Rejected. Query refers to a product outside the KLİMA domain."
     },
     {
       "id": 15,
-      "term": "samsung klima tamir",
-      "is_positive": 1,
-      "match_type": "phrase",
-      "explanation": "Accepted. Clear air conditioner repair intent without location."
+      "term": "mersin pozcu vestel servisi",
+      "is_positive": 0,
+      "match_type": "broad",
+      "explanation": "Rejected. Location is outside the target city ANKARA."
     },
     {
       "id": 16,
-      "term": "altus servisi",
+      "term": "bozyaka beyaz eşya tamircisi",
       "is_positive": 0,
       "match_type": "broad",
-      "explanation": "Rejected. Implies official service."
+      "explanation": "Rejected. Query refers to a product outside the KLİMA domain."
     },
     {
       "id": 17,
-      "term": "siemens servisi",
+      "term": "dijitsu çamaşır makinesi servisi",
       "is_positive": 0,
       "match_type": "broad",
-      "explanation": "Rejected. Implies official service."
+      "explanation": "Rejected. Query refers to a product outside the KLİMA domain."
     },
     {
       "id": 18,
-      "term": "beko servisi aydın",
+      "term": "buderus servis numarası",
       "is_positive": 0,
       "match_type": "broad",
-      "explanation": "Rejected. Refers to a different location outside Ankara."
+      "explanation": "Rejected. Query implies official service intent."
     },
     {
       "id": 19,
-      "term": "klima tamircisi",
-      "is_positive": 1,
-      "match_type": "phrase",
-      "explanation": "Accepted. Clear air conditioner repair intent without location."
+      "term": "baymak kombi servisi telefon numarası",
+      "is_positive": 0,
+      "match_type": "broad",
+      "explanation": "Rejected. Query implies official service intent."
     },
     {
       "id": 20,
-      "term": "keçiören çamaşır makinesi servisi",
+      "term": "arçelik klima servisi",
       "is_positive": 0,
       "match_type": "broad",
-      "explanation": "Rejected. Refers to unrelated appliance category."
+      "explanation": "Rejected. Query implies official service intent."
     },
     {
       "id": 21,
-      "term": "bulaşık makinesi montajı",
+      "term": "demirdöküm klima kumanda",
       "is_positive": 0,
       "match_type": "broad",
-      "explanation": "Rejected. Refers to unrelated appliance category."
+      "explanation": "Rejected. Query refers to a product outside the KLİMA domain."
     },
     {
       "id": 22,
-      "term": "ayteknik ümraniye",
+      "term": "soğutucu servis",
       "is_positive": 0,
       "match_type": "broad",
-      "explanation": "Rejected. Refers to a different location outside Ankara."
+      "explanation": "Rejected. Query is vague and lacks clear service intent."
     },
     {
       "id": 23,
-      "term": "bosch çamaşır makinesi tamiri",
+      "term": "uzman ısı teknik",
       "is_positive": 0,
       "match_type": "broad",
-      "explanation": "Rejected. Refers to unrelated appliance category."
+      "explanation": "Rejected. Query is vague and lacks clear service intent."
     },
     {
       "id": 24,
-      "term": "şirinevler teknik servis",
+      "term": "araç buzdolabı tamiri",
       "is_positive": 0,
       "match_type": "broad",
-      "explanation": "Rejected. Implies official service."
+      "explanation": "Rejected. Query refers to a product outside the KLİMA domain."
     },
     {
       "id": 25,
-      "term": "buz dolabi tamircisi",
+      "term": "bosch çamaşır makinesi servisi",
       "is_positive": 0,
       "match_type": "broad",
-      "explanation": "Rejected. Refers to unrelated appliance category."
+      "explanation": "Rejected. Query refers to a product outside the KLİMA domain."
     },
     {
       "id": 26,
-      "term": "buzdolabı devamlı çalışıyor",
-      "is_positive": 0,
-      "match_type": "broad",
-      "explanation": "Rejected. Refers to unrelated appliance category."
+      "term": "klima bakım",
+      "is_positive": 1,
+      "match_type": "phrase",
+      "explanation": "Accepted. Query shows clear third-party maintenance intent for KLİMA."
     },
     {
       "id": 27,
-      "term": "profilo servis trabzon",
+      "term": "arçelik klima servisi",
       "is_positive": 0,
       "match_type": "broad",
-      "explanation": "Rejected. Refers to a different location outside Ankara."
+      "explanation": "Rejected. Query implies official service intent."
     },
     {
       "id": 28,
-      "term": "regal çamaşır makinesi arıza",
+      "term": "seg servis",
       "is_positive": 0,
       "match_type": "broad",
-      "explanation": "Rejected. Refers to unrelated appliance category."
+      "explanation": "Rejected. Query implies official service intent."
     },
     {
       "id": 29,
-      "term": "vaillant klima servisi",
+      "term": "dolap tamiri",
       "is_positive": 0,
       "match_type": "broad",
-      "explanation": "Rejected. Implies official service."
+      "explanation": "Rejected. Query refers to a product outside the KLİMA domain."
     },
     {
       "id": 30,
-      "term": "demirdöküm klima servisi",
+      "term": "tatvan beyaz eşya tamircisi",
       "is_positive": 0,
       "match_type": "broad",
-      "explanation": "Rejected. Implies official service."
+      "explanation": "Rejected. Query refers to a product outside the KLİMA domain."
     },
     {
       "id": 31,
-      "term": "televizyon tamircisi",
+      "term": "franke servis",
       "is_positive": 0,
       "match_type": "broad",
-      "explanation": "Rejected. Refers to unrelated appliance category."
+      "explanation": "Rejected. Query implies official service intent."
     },
     {
       "id": 32,
-      "term": "gebze alarko servis",
+      "term": "arçelik servis buzdolabı",
       "is_positive": 0,
       "match_type": "broad",
-      "explanation": "Rejected. Refers to a different location outside Ankara."
+      "explanation": "Rejected. Query refers to a product outside the KLİMA domain."
     },
     {
       "id": 33,
-      "term": "beyaz eşya servisi tepebaşı eskişehir yakınında",
+      "term": "elbistan klimacı",
       "is_positive": 0,
       "match_type": "broad",
-      "explanation": "Rejected. Refers to a different location outside Ankara."
+      "explanation": "Rejected. Location is outside the target city ANKARA."
     },
     {
       "id": 34,
-      "term": "atakum kombi tamircisi",
+      "term": "teknik beyaz eşya servisi",
       "is_positive": 0,
       "match_type": "broad",
-      "explanation": "Rejected. Refers to a different location outside Ankara."
+      "explanation": "Rejected. Query refers to a product outside the KLİMA domain."
     },
     {
       "id": 35,
-      "term": "baymak servis",
+      "term": "uğur derin dondurucu servis iletişim",
       "is_positive": 0,
       "match_type": "broad",
-      "explanation": "Rejected. Implies official service."
+      "explanation": "Rejected. Query implies official service intent."
     },
     {
       "id": 36,
-      "term": "kombi tamir",
+      "term": "alarko kombi servis",
       "is_positive": 0,
       "match_type": "broad",
-      "explanation": "Rejected. Refers to a different appliance (kombi) which is not relevant."
+      "explanation": "Rejected. Query refers to a product outside the KLİMA domain."
     },
     {
       "id": 37,
-      "term": "eca kombi servisi",
+      "term": "etimesgut buzdolabı tamircisi",
       "is_positive": 0,
       "match_type": "broad",
-      "explanation": "Rejected. Refers to a different appliance (kombi) which is not relevant."
+      "explanation": "Rejected. Query refers to a product outside the KLİMA domain."
     },
     {
       "id": 38,
-      "term": "termodinamik servis telefon",
+      "term": "diyarbakır klima tamiri",
       "is_positive": 0,
       "match_type": "broad",
-      "explanation": "Rejected. Implies official service and seeks contact information."
+      "explanation": "Rejected. Location is outside the target city ANKARA."
     },
     {
       "id": 39,
-      "term": "döşemealtı buzdolabı tamircisi",
+      "term": "televizyon tamircisi",
       "is_positive": 0,
       "match_type": "broad",
-      "explanation": "Rejected. Refers to unrelated appliance category."
+      "explanation": "Rejected. Query refers to a product outside the KLİMA domain."
     },
     {
       "id": 40,
-      "term": "bursa baymak kombi",
+      "term": "bosch camasir makinesi servisi",
       "is_positive": 0,
       "match_type": "broad",
-      "explanation": "Rejected. Refers to a different location outside Ankara."
+      "explanation": "Rejected. Query refers to a product outside the KLİMA domain."
     },
     {
       "id": 41,
-      "term": "arçelik servis iletişim",
+      "term": "darıca kombi",
       "is_positive": 0,
       "match_type": "broad",
-      "explanation": "Rejected. Seeks contact information."
+      "explanation": "Rejected. Query refers to a product outside the KLİMA domain."
     },
     {
       "id": 42,
-      "term": "izmir klima temizleme",
+      "term": "vaillant servis",
       "is_positive": 0,
       "match_type": "broad",
-      "explanation": "Rejected. Refers to a different location outside Ankara."
+      "explanation": "Rejected. Query implies official service intent."
     },
     {
       "id": 43,
-      "term": "toshiba klima servis",
+      "term": "vaillant servisi gökçam",
       "is_positive": 0,
       "match_type": "broad",
-      "explanation": "Rejected. Implies official service."
+      "explanation": "Rejected. Query implies official service intent."
     },
     {
       "id": 44,
-      "term": "beko klima",
+      "term": "vaillant servis kışla",
       "is_positive": 0,
       "match_type": "broad",
-      "explanation": "Rejected. Contains only a brand without clear repair context."
+      "explanation": "Rejected. Query implies official service intent."
     },
     {
       "id": 45,
-      "term": "mersin yenişehir enteroğlu beyaz eşya teknik servis",
+      "term": "buzdolabı tamiri",
       "is_positive": 0,
       "match_type": "broad",
-      "explanation": "Rejected. Refers to a different location outside Ankara."
+      "explanation": "Rejected. Query refers to a product outside the KLİMA domain."
     },
     {
       "id": 46,
-      "term": "altınova beyaz eşya tamircisi",
+      "term": "beko servis şanlıurfa",
       "is_positive": 0,
       "match_type": "broad",
-      "explanation": "Rejected. Refers to unrelated appliance category."
+      "explanation": "Rejected. Location is outside the target city ANKARA."
     },
     {
       "id": 47,
-      "term": "beyaz eşya tamir",
+      "term": "altus buzdolabı servis",
       "is_positive": 0,
       "match_type": "broad",
-      "explanation": "Rejected. Refers to unrelated appliance category."
+      "explanation": "Rejected. Query refers to a product outside the KLİMA domain."
     },
     {
       "id": 48,
-      "term": "arçelik çamaşır makinesi servisi",
+      "term": "beyaz eşya servisi",
       "is_positive": 0,
       "match_type": "broad",
-      "explanation": "Rejected. Refers to unrelated appliance category."
+      "explanation": "Rejected. Query refers to a product outside the KLİMA domain."
     },
     {
       "id": 49,
-      "term": "samsung beyaz eşya servisi",
+      "term": "etimesgut kombi servisi",
       "is_positive": 0,
       "match_type": "broad",
-      "explanation": "Rejected. Refers to unrelated appliance category."
+      "explanation": "Rejected. Query refers to a product outside the KLİMA domain."
     },
     {
       "id": 50,
-      "term": "çamaşır makinesi servisi",
+      "term": "demirdöküm",
       "is_positive": 0,
       "match_type": "broad",
-      "explanation": "Rejected. Refers to unrelated appliance category."
-    },
-    {
-      "id": 51,
-      "term": "beko servis bursa nilüfer",
-      "is_positive": 0,
-      "match_type": "broad",
-      "explanation": "Rejected. Refers to a different location outside Ankara."
-    },
-    {
-      "id": 52,
-      "term": "etimesgut beyaz eşya teknik servis",
-      "is_positive": 0,
-      "match_type": "broad",
-      "explanation": "Rejected. Refers to unrelated appliance category."
-    },
-    {
-      "id": 53,
-      "term": "vestel buzdolabı tamiri",
-      "is_positive": 0,
-      "match_type": "broad",
-      "explanation": "Rejected. Refers to unrelated appliance category."
-    },
-    {
-      "id": 54,
-      "term": "televizyon tamir",
-      "is_positive": 0,
-      "match_type": "broad",
-      "explanation": "Rejected. Refers to unrelated appliance category."
-    },
-    {
-      "id": 55,
-      "term": "buca buzdolabı tamircisi",
-      "is_positive": 0,
-      "match_type": "broad",
-      "explanation": "Rejected. Refers to unrelated appliance category."
-    },
-    {
-      "id": 56,
-      "term": "yeniçiftlik beyaz eşya servis",
-      "is_positive": 0,
-      "match_type": "broad",
-      "explanation": "Rejected. Refers to unrelated appliance category."
-    },
-    {
-      "id": 57,
-      "term": "buzdolabı",
-      "is_positive": 0,
-      "match_type": "broad",
-      "explanation": "Rejected. Too vague and generic."
-    },
-    {
-      "id": 58,
-      "term": "telefon acil tamir",
-      "is_positive": 0,
-      "match_type": "broad",
-      "explanation": "Rejected. Too vague and seeks contact information."
-    },
-    {
-      "id": 59,
-      "term": "klima",
-      "is_positive": 0,
-      "match_type": "broad",
-      "explanation": "Rejected. Too vague and generic."
-    },
-    {
-      "id": 60,
-      "term": "klimacı",
-      "is_positive": 1,
-      "match_type": "phrase",
-      "explanation": "Accepted. Clear air conditioner repair intent without location."
-    },
-    {
-      "id": 61,
-      "term": "klima kompresörü",
-      "is_positive": 0,
-      "match_type": "broad",
-      "explanation": "Rejected. Refers to a component, not a service."
-    },
-    {
-      "id": 62,
-      "term": "mamak klima servisi",
-      "is_positive": 1,
-      "match_type": "exact",
-      "explanation": "Accepted. Clear air conditioner repair intent with specific location in Ankara."
-    },
-    {
-      "id": 63,
-      "term": "demirdöküm klima servisi diyarbakır",
-      "is_positive": 0,
-      "match_type": "broad",
-      "explanation": "Rejected. Refers to a different location outside Ankara."
+      "explanation": "Rejected. Query is vague and lacks clear service intent."
     }
   ]
 }

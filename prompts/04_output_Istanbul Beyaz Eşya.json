@@ -1,0 +1,452 @@
+{
+  "results": [
+    {
+      "id": 1,
+      "term": "beko servis bursa nilüfer",
+      "is_positive": 0,
+      "match_type": "broad",
+      "explanation": "Rejected. Location is outside the target city ISTANBUL."
+    },
+    {
+      "id": 2,
+      "term": "siemens servis",
+      "is_positive": 0,
+      "match_type": "broad",
+      "explanation": "Rejected. Lacks specific service intent for BEYAZ EŞYA."
+    },
+    {
+      "id": 3,
+      "term": "regal buzdolabı servisi",
+      "is_positive": 0,
+      "match_type": "broad",
+      "explanation": "Rejected. Implies official service intent."
+    },
+    {
+      "id": 4,
+      "term": "klima bakim",
+      "is_positive": 0,
+      "match_type": "broad",
+      "explanation": "Rejected. Not related to BEYAZ EŞYA."
+    },
+    {
+      "id": 5,
+      "term": "antalya eski sanayi oto klima",
+      "is_positive": 0,
+      "match_type": "broad",
+      "explanation": "Rejected. Location is outside the target city ISTANBUL."
+    },
+    {
+      "id": 6,
+      "term": "antalya klima bakım",
+      "is_positive": 0,
+      "match_type": "broad",
+      "explanation": "Rejected. Location is outside the target city ISTANBUL."
+    },
+    {
+      "id": 7,
+      "term": "demetevler arçelik servisi yenimahalle ankara",
+      "is_positive": 0,
+      "match_type": "broad",
+      "explanation": "Rejected. Location is outside the target city ISTANBUL."
+    },
+    {
+      "id": 8,
+      "term": "altus buzdolabı",
+      "is_positive": 0,
+      "match_type": "broad",
+      "explanation": "Rejected. Lacks service intent."
+    },
+    {
+      "id": 9,
+      "term": "regal buzdolabı servis",
+      "is_positive": 0,
+      "match_type": "broad",
+      "explanation": "Rejected. Implies official service intent."
+    },
+    {
+      "id": 10,
+      "term": "beyaz eşya servisi",
+      "is_positive": 1,
+      "match_type": "phrase",
+      "explanation": "Accepted. Query shows clear third-party repair intent for BEYAZ EŞYA."
+    },
+    {
+      "id": 11,
+      "term": "bulaşık makinesi tamircisi",
+      "is_positive": 1,
+      "match_type": "phrase",
+      "explanation": "Accepted. Query shows clear third-party repair intent for BEYAZ EŞYA."
+    },
+    {
+      "id": 12,
+      "term": "baymak balıkesir servisi",
+      "is_positive": 0,
+      "match_type": "broad",
+      "explanation": "Rejected. Location is outside the target city ISTANBUL."
+    },
+    {
+      "id": 13,
+      "term": "aydın vaillant servisi",
+      "is_positive": 0,
+      "match_type": "broad",
+      "explanation": "Rejected. Location is outside the target city ISTANBUL."
+    },
+    {
+      "id": 14,
+      "term": "vestel buzdolabı servisi telefon numarası",
+      "is_positive": 0,
+      "match_type": "broad",
+      "explanation": "Rejected. Implies official service intent."
+    },
+    {
+      "id": 15,
+      "term": "vaillant kombi arıza",
+      "is_positive": 0,
+      "match_type": "broad",
+      "explanation": "Rejected. Not related to BEYAZ EŞYA."
+    },
+    {
+      "id": 16,
+      "term": "daikin kombi servis",
+      "is_positive": 0,
+      "match_type": "broad",
+      "explanation": "Rejected. Not related to BEYAZ EŞYA."
+    },
+    {
+      "id": 17,
+      "term": "kombi bakım",
+      "is_positive": 0,
+      "match_type": "broad",
+      "explanation": "Rejected. Not related to BEYAZ EŞYA."
+    },
+    {
+      "id": 18,
+      "term": "buderus servisi boztepe",
+      "is_positive": 0,
+      "match_type": "broad",
+      "explanation": "Rejected. Location is outside the target city ISTANBUL."
+    },
+    {
+      "id": 19,
+      "term": "baymak servis karataş",
+      "is_positive": 0,
+      "match_type": "broad",
+      "explanation": "Rejected. Location is outside the target city ISTANBUL."
+    },
+    {
+      "id": 20,
+      "term": "arçelik servisleri",
+      "is_positive": 0,
+      "match_type": "broad",
+      "explanation": "Rejected. Implies official service intent."
+    },
+    {
+      "id": 21,
+      "term": "ataşehir kombi",
+      "is_positive": 0,
+      "match_type": "broad",
+      "explanation": "Rejected. Not related to BEYAZ EŞYA."
+    },
+    {
+      "id": 22,
+      "term": "warmhaus servis iletişim",
+      "is_positive": 0,
+      "match_type": "broad",
+      "explanation": "Rejected. Implies official service intent."
+    },
+    {
+      "id": 23,
+      "term": "warmhaus kombi servis",
+      "is_positive": 0,
+      "match_type": "broad",
+      "explanation": "Rejected. Not related to BEYAZ EŞYA."
+    },
+    {
+      "id": 24,
+      "term": "mersin mezitli klima servisi",
+      "is_positive": 0,
+      "match_type": "broad",
+      "explanation": "Rejected. Location is outside the target city ISTANBUL."
+    },
+    {
+      "id": 25,
+      "term": "gree klima servis",
+      "is_positive": 0,
+      "match_type": "broad",
+      "explanation": "Rejected. Not related to BEYAZ EŞYA."
+    },
+    {
+      "id": 26,
+      "term": "ariston beyaz eşya",
+      "is_positive": 0,
+      "match_type": "broad",
+      "explanation": "Rejected. Lacks service intent."
+    },
+    {
+      "id": 27,
+      "term": "arsuz klimacı",
+      "is_positive": 0,
+      "match_type": "broad",
+      "explanation": "Rejected. Not related to BEYAZ EŞYA."
+    },
+    {
+      "id": 28,
+      "term": "en yakın klima servis",
+      "is_positive": 0,
+      "match_type": "broad",
+      "explanation": "Rejected. Not related to BEYAZ EŞYA."
+    },
+    {
+      "id": 29,
+      "term": "baymak servis şanlıurfa",
+      "is_positive": 0,
+      "match_type": "broad",
+      "explanation": "Rejected. Location is outside the target city ISTANBUL."
+    },
+    {
+      "id": 30,
+      "term": "orhangazi bosch servisi",
+      "is_positive": 0,
+      "match_type": "broad",
+      "explanation": "Rejected. Location is outside the target city ISTANBUL."
+    },
+    {
+      "id": 31,
+      "term": "ayvalık klima servisi",
+      "is_positive": 0,
+      "match_type": "broad",
+      "explanation": "Rejected. Location is outside the target city ISTANBUL."
+    },
+    {
+      "id": 32,
+      "term": "altus iletişim",
+      "is_positive": 0,
+      "match_type": "broad",
+      "explanation": "Rejected. Lacks service intent."
+    },
+    {
+      "id": 33,
+      "term": "airfel teknik servis",
+      "is_positive": 0,
+      "match_type": "broad",
+      "explanation": "Rejected. Implies official service intent."
+    },
+    {
+      "id": 34,
+      "term": "regal çamaşır makinesi servis numarası",
+      "is_positive": 0,
+      "match_type": "broad",
+      "explanation": "Rejected. Implies official service intent."
+    },
+    {
+      "id": 35,
+      "term": "balıkesir beyaz eşya tamircisi",
+      "is_positive": 0,
+      "match_type": "broad",
+      "explanation": "Rejected. Location is outside the target city ISTANBUL."
+    },
+    {
+      "id": 36,
+      "term": "demirdöküm servis",
+      "is_positive": 0,
+      "match_type": "broad",
+      "explanation": "Rejected. Implies official service intent."
+    },
+    {
+      "id": 37,
+      "term": "baymak servis ankara",
+      "is_positive": 0,
+      "match_type": "broad",
+      "explanation": "Rejected. Location is outside the target city ISTANBUL."
+    },
+    {
+      "id": 38,
+      "term": "pendik beyaz eşya tamircisi",
+      "is_positive": 1,
+      "match_type": "phrase",
+      "explanation": "Accepted. Query shows clear third-party repair intent for BEYAZ EŞYA."
+    },
+    {
+      "id": 39,
+      "term": "bulaşık makinesi tamircisi",
+      "is_positive": 1,
+      "match_type": "phrase",
+      "explanation": "Accepted. Query shows clear third-party repair intent for BEYAZ EŞYA."
+    },
+    {
+      "id": 40,
+      "term": "silverline servis",
+      "is_positive": 0,
+      "match_type": "broad",
+      "explanation": "Rejected. Implies official service intent."
+    },
+    {
+      "id": 41,
+      "term": "beykoz buzdolabı tamircisi",
+      "is_positive": 1,
+      "match_type": "phrase",
+      "explanation": "Accepted. Query shows clear third-party repair intent for BEYAZ EŞYA."
+    },
+    {
+      "id": 42,
+      "term": "westinghouse buzdolabı",
+      "is_positive": 0,
+      "match_type": "broad",
+      "explanation": "Rejected. Lacks service intent."
+    },
+    {
+      "id": 43,
+      "term": "vestel buzdolabı demo modundan çıkmıyor",
+      "is_positive": 0,
+      "match_type": "broad",
+      "explanation": "Rejected. Not related to BEYAZ EŞYA repair."
+    },
+    {
+      "id": 44,
+      "term": "televizyon tamircisi diyarbakır",
+      "is_positive": 0,
+      "match_type": "broad",
+      "explanation": "Rejected. Location is outside the target city ISTANBUL."
+    },
+    {
+      "id": 45,
+      "term": "arçelik servis",
+      "is_positive": 0,
+      "match_type": "broad",
+      "explanation": "Rejected. Implies official service intent."
+    },
+    {
+      "id": 46,
+      "term": "çamaşır makinesi",
+      "is_positive": 0,
+      "match_type": "broad",
+      "explanation": "Rejected. Lacks service intent."
+    },
+    {
+      "id": 47,
+      "term": "arçelik servis çamaşır makinesi",
+      "is_positive": 0,
+      "match_type": "broad",
+      "explanation": "Rejected. Implies official service intent."
+    },
+    {
+      "id": 48,
+      "term": "buzdolabı tamircisi",
+      "is_positive": 1,
+      "match_type": "phrase",
+      "explanation": "Accepted. Query shows clear third-party repair intent for BEYAZ EŞYA."
+    },
+    {
+      "id": 49,
+      "term": "urla klima servis",
+      "is_positive": 0,
+      "match_type": "broad",
+      "explanation": "Rejected. Location is outside the target city ISTANBUL."
+    },
+    {
+      "id": 50,
+      "term": "eca samsun servis",
+      "is_positive": 0,
+      "match_type": "broad",
+      "explanation": "Rejected. Location is outside the target city ISTANBUL."
+    },
+    {
+      "id": 51,
+      "term": "tuzla klima",
+      "is_positive": 0,
+      "match_type": "broad",
+      "explanation": "Rejected. Not related to BEYAZ EŞYA."
+    },
+    {
+      "id": 52,
+      "term": "kombi",
+      "is_positive": 0,
+      "match_type": "broad",
+      "explanation": "Rejected. Not related to BEYAZ EŞYA."
+    },
+    {
+      "id": 53,
+      "term": "kombici",
+      "is_positive": 0,
+      "match_type": "broad",
+      "explanation": "Rejected. Not related to BEYAZ EŞYA."
+    },
+    {
+      "id": 54,
+      "term": "klima",
+      "is_positive": 0,
+      "match_type": "broad",
+      "explanation": "Rejected. Not related to BEYAZ EŞYA."
+    },
+    {
+      "id": 55,
+      "term": "klimacı",
+      "is_positive": 0,
+      "match_type": "broad",
+      "explanation": "Rejected. Not related to BEYAZ EŞYA."
+    },
+    {
+      "id": 56,
+      "term": "buzdolabı",
+      "is_positive": 0,
+      "match_type": "broad",
+      "explanation": "Rejected. Lacks service intent."
+    },
+    {
+      "id": 57,
+      "term": "vestel buzdolabı tamiri",
+      "is_positive": 1,
+      "match_type": "phrase",
+      "explanation": "Accepted. Query shows clear third-party repair intent for BEYAZ EŞYA."
+    },
+    {
+      "id": 58,
+      "term": "televizyon tamir",
+      "is_positive": 0,
+      "match_type": "broad",
+      "explanation": "Rejected. Not related to BEYAZ EŞYA."
+    },
+    {
+      "id": 59,
+      "term": "buca buzdolabı tamircisi",
+      "is_positive": 0,
+      "match_type": "broad",
+      "explanation": "Rejected. Location is outside the target city ISTANBUL."
+    },
+    {
+      "id": 60,
+      "term": "yeniçiftlik beyaz eşya servis",
+      "is_positive": 0,
+      "match_type": "broad",
+      "explanation": "Rejected. Location is outside the target city ISTANBUL."
+    },
+    {
+      "id": 61,
+      "term": "etiler buzdolabı servisi",
+      "is_positive": 1,
+      "match_type": "phrase",
+      "explanation": "Accepted. Query shows clear third-party repair intent for BEYAZ EŞYA."
+    },
+    {
+      "id": 62,
+      "term": "klima kompresörü",
+      "is_positive": 0,
+      "match_type": "broad",
+      "explanation": "Rejected. Not related to BEYAZ EŞYA."
+    },
+    {
+      "id": 63,
+      "term": "mamak klima servisi",
+      "is_positive": 0,
+      "match_type": "broad",
+      "explanation": "Rejected. Location is outside the target city ISTANBUL."
+    },
+    {
+      "id": 64,
+      "term": "demirdöküm klima servisi diyarbakır",
+      "is_positive": 0,
+      "match_type": "broad",
+      "explanation": "Rejected. Location is outside the target city ISTANBUL."
+    }
+  ]
+}
