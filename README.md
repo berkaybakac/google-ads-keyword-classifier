@@ -1,95 +1,120 @@
-# Prompt-Based Keyword Classifier for Local Google Ads Targeting
+# Google Ads Keyword Classifier (GPT-4o Playground Project)
 
-This project showcases how OpenAI Playground can be used to build a lightweight, prompt-powered classification system for Google Ads search terms — specifically for a white goods repair company operating in Istanbul.
+This repository contains a structured prompt-driven classification system designed to help third-party repair businesses classify Google Ads search terms using OpenAI GPT-4o-mini in Playground.
 
----
-
-## Project Focus
-
-Unlike conventional data processing projects, the core of this work lies in **prompt engineering and LLM utilization**. Most of the effort went into:
-
-- Crafting an effective `system` prompt that simulates a domain expert,
-- Writing a structured `user` prompt that clearly defines task goals and constraints,
-- Designing a robust `JSON schema` to guide GPT’s output,
-- Iteratively testing prompts in OpenAI Playground for consistent and high-quality results.
-
-The **primary product** of this project is a structured, AI-generated dataset containing classification decisions for 30 real-world search terms.
+The goal is to minimize budget waste by accepting **only** highly relevant search queries that show clear intent for third-party repair/service in a specified city and sector (e.g., "çamaşır makinesi servisi in Istanbul").
 
 ---
 
-## Use Case
+## 🧠 How It Works
 
-For each keyword, the model answers:
-- Should this term trigger an ad? (`is_positive`)
-- What kind of match type should be applied? (`match_type`)
-- Why? (`explanation`)
+The system uses a dynamic prompt template with the following placeholders:
 
-The output enables **automated ad targeting decisions** without manual rule-writing or human labeling.
+- `{{CITY}}` — The target service location (e.g., `ISTANBUL`)
+- `{{SECTOR}}` — The repair/service domain (e.g., `BEYAZ EŞYA`, `KLİMA`, `KOMBİ`)
 
----
+Search terms are passed into the Playground in batches (e.g., 50–100 terms), and the model returns structured JSON with the following schema:
 
-## File Structure
-
-```
-.
-├── json_to_excel_converter.py       # Python script to export JSON results to Excel
-├── gelismis_output.xlsx             # Final structured output (optional)
-├── prompts/
-│   ├── 01_system_prompt.txt         # Defines GPT's role and tone
-│   ├── 02_user_prompt.txt           # Task definition and input format
-│   ├── 03_response_schema.txt       # Output format contract (JSON)
-│   └── 04_ai_output_sample.json     # Playground output with 30 labeled terms
-├── .vscode/
-│   └── settings.json                # Project-level interpreter configuration
-├── .gitignore
-└── README.md
+```json
+{
+  "results": [
+    {
+      "id": 1,
+      "term": "kadıköy çamaşır makinesi tamircisi",
+      "is_positive": 1,
+      "match_type": "exact",
+      "explanation": "Accepted. Query shows clear third-party repair intent for ÇAMAŞIR MAKİNESİ in ISTANBUL."
+    },
+    ...
+  ]
+}
 ```
 
 ---
 
-## Running the Script (optional)
+## 📁 Project Structure
 
-Once the AI-generated results are saved as `04_ai_output_sample.json`, they can be exported to a styled Excel sheet for business use.
+```
+GOOGLE-ADS-KEYWORD-CLASSIFIER/
+│
+├── prompts/                          # Prompt templates and model outputs
+│   ├── 01_response_schema.json       # JSON schema for classification results
+│   ├── 02_system_prompt_Dinamic_Main.txt   # Dynamic system prompt (main version)
+│   ├── 03_user_prompt_New_Example.txt      # Sample user prompt for Playground
+│   ├── 04_output_*                   # JSON result files for different city/sector combinations
+│
+├── prompts_tests/                   # (Optional) Test input or validation assets
+├── json_to_excel_converter.py       # Python script to convert output JSON to Excel
+├── keyword_report.xlsx              # Output Excel report (converted from JSON)
+├── Search_Terms.txt                 # Input search terms for testing
+├── README.md                        # 📄 You are here
+└── .gitignore
+```
+
+---
+
+## ✅ Prompt Logic Highlights
+
+- **City Filter:** Only terms within `{{CITY}}` are accepted. Known districts inside the city (e.g., Kadıköy ∈ Istanbul) are valid.
+- **Service Intent:** Queries must include keywords like `tamir`, `tamircisi`, `onarım`, `servis`, `arıza`, `çalışmıyor`.
+- **Brand-Only Filter:** Queries like `"Arçelik buzdolabı"` are rejected unless service intent is also present.
+- **Official Service Filter:** Phrases like `yetkili servis`, `müşteri hizmetleri`, or brand support lines are rejected.
+
+---
+
+## 🧪 Model Testing
+
+Extensive testing has been performed across multiple city-sector pairs:
+
+- ✅ Istanbul - Televizyon Servisi (0 errors in 50)
+- ✅ Ankara - Klima Servisi (1 explanation mismatch in 50)
+- ✅ Istanbul - Beyaz Eşya (1 match_type mismatch in 64)
+- ✅ Ankara - Kombi (1 incorrect positive in 50)
+- ✅ Istanbul - Çamaşır Makinesi (1 explanation error, 2 subjective borderline rejections in 50)
+
+> ⚠️ **Note:** When using sample outputs, ensure example cities/districts match the chosen `{{CITY}}`. For example, if `{{CITY}} = Ankara`, then Eryaman should be considered valid; otherwise, reject it.
+
+---
+
+## 🧩 Final Prompt Template
+
+The full dynamic prompt is located in:
+
+```
+prompts/02_system_prompt_Dinamic_Main.txt
+```
+
+You must replace `{{CITY}}` and `{{SECTOR}}` with your target parameters before pasting into Playground.
+
+---
+
+## 🔁 Converting JSON to Excel
+
+To convert a `.json` classification output to `.xlsx`:
 
 ```bash
-pip install pandas openpyxl
 python json_to_excel_converter.py
 ```
 
-This step is included to enable **non-technical stakeholders** to review or filter the results easily.
+Output: `keyword_report.xlsx`
 
 ---
 
-## Sample Output Row
+## 📌 Notes
 
-| term                          | is_positive | match_type | explanation                                                  |
-|------------------------------|-------------|------------|--------------------------------------------------------------|
-| alibeyköy buzdolabı tamircisi | 1           | exact      | High-intent, local repair-focused query for fridge repair.   |
-
----
-
-## Why This Matters
-
-This project highlights how:
-- A single well-engineered prompt + schema can automate complex classification tasks,
-- OpenAI Playground can act as a low-code labeling assistant,
-- Prompt engineering can become a **practical decision-making tool** for digital marketing.
+- Built for use with **GPT-4o-mini** on **OpenAI Playground**
+- Optimized for large-scale batch classification (up to 8,000+ terms)
+- Every `04_output_*.json` file contains tested and verified samples
 
 ---
 
-## Future Extensions
+## 🔒 License
 
-- Bulk term input & auto-processing via OpenAI API
-- CSV export for Google Ads Editor compatibility
-- UI for business teams to review & override AI decisions
+MIT License – free to use, modify, and distribute.
 
 ---
 
-## Author Note
+## ✉️ Contact
 
-The majority of time in this project was spent designing, testing, and refining the prompts in OpenAI Playground — not on coding or automation.  
-The technical code (JSON → Excel) supports the prompt-based insight and decision structure.
-
-This project serves as a minimal but powerful showcase of what LLMs can do when paired with clear instruction and schema design.
-
----
+Maintained by [Berkay Bakaç](https://github.com/berkaybakac)  
+For feedback or contributions, feel free to open an issue or pull request.
