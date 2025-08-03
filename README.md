@@ -6,7 +6,7 @@ The goal is to minimize budget waste by accepting **only** highly relevant searc
 
 ---
 
-## 🧠 How It Works
+## How It Works
 
 The system uses a dynamic prompt template with the following placeholders:
 
@@ -32,7 +32,7 @@ Search terms are passed into the Playground in batches (e.g., 50–100 terms), a
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 GOOGLE-ADS-KEYWORD-CLASSIFIER/
@@ -53,7 +53,7 @@ GOOGLE-ADS-KEYWORD-CLASSIFIER/
 
 ---
 
-## ✅ Prompt Logic Highlights
+## Prompt Logic Highlights
 
 - **City Filter:** Only terms within `{{CITY}}` are accepted. Known districts inside the city (e.g., Kadıköy ∈ Istanbul) are valid.
 - **Service Intent:** Queries must include keywords like `tamir`, `tamircisi`, `onarım`, `servis`, `arıza`, `çalışmıyor`.
@@ -62,21 +62,21 @@ GOOGLE-ADS-KEYWORD-CLASSIFIER/
 
 ---
 
-## 🧪 Model Testing
+## Model Testing
 
 Extensive testing has been performed across multiple city-sector pairs:
 
-- ✅ Istanbul - Televizyon Servisi (0 errors in 50)
-- ✅ Ankara - Klima Servisi (1 explanation mismatch in 50)
-- ✅ Istanbul - Beyaz Eşya (1 match_type mismatch in 64)
-- ✅ Ankara - Kombi (1 incorrect positive in 50)
-- ✅ Istanbul - Çamaşır Makinesi (1 explanation error, 2 subjective borderline rejections in 50)
+- Istanbul - Televizyon Servisi (0 errors in 50)
+- Ankara - Klima Servisi (1 explanation mismatch in 50)
+- Istanbul - Beyaz Eşya (1 match_type mismatch in 64)
+- Ankara - Kombi (1 incorrect positive in 50)
+- Istanbul - Çamaşır Makinesi (1 explanation error, 2 subjective borderline rejections in 50)
 
-> ⚠️ **Note:** When using sample outputs, ensure example cities/districts match the chosen `{{CITY}}`. For example, if `{{CITY}} = Ankara`, then Eryaman should be considered valid; otherwise, reject it.
+> **Note:** When using sample outputs, ensure example cities/districts match the chosen `{{CITY}}`. For example, if `{{CITY}} = Ankara`, then Eryaman should be considered valid; otherwise, reject it.
 
 ---
 
-## 🧩 Final Prompt Template
+## Final Prompt Template
 
 The full dynamic prompt is located in:
 
@@ -88,7 +88,7 @@ You must replace `{{CITY}}` and `{{SECTOR}}` with your target parameters before 
 
 ---
 
-## 🔁 Converting JSON to Excel
+## Converting JSON to Excel
 
 To convert a `.json` classification output to `.xlsx`:
 
@@ -100,7 +100,7 @@ Output: `keyword_report.xlsx`
 
 ---
 
-## 📌 Notes
+## Notes
 
 - Built for use with **GPT-4o-mini** on **OpenAI Playground**
 - Optimized for large-scale batch classification (up to 8,000+ terms)
@@ -108,13 +108,13 @@ Output: `keyword_report.xlsx`
 
 ---
 
-## 🔒 License
+## License
 
 MIT License – free to use, modify, and distribute.
 
 ---
 
-## ✉️ Contact
+## Contact
 
 Maintained by [Berkay Bakaç](https://github.com/berkaybakac)  
 For feedback or contributions, feel free to open an issue or pull request.
