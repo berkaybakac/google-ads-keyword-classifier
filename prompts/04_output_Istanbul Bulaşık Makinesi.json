@@ -1,0 +1,354 @@
+{
+  "results": [
+    {
+      "id": 1,
+      "term": "uyducu",
+      "is_positive": 0,
+      "match_type": "broad",
+      "explanation": "Rejected. Query does not relate to BULAŞIK MAKİNESİ or any repair service."
+    },
+    {
+      "id": 2,
+      "term": "kombi tamiri",
+      "is_positive": 0,
+      "match_type": "broad",
+      "explanation": "Rejected. Query refers to a different appliance, not BULAŞIK MAKİNESİ."
+    },
+    {
+      "id": 3,
+      "term": "yunuseli beyaz eşya tamircisi",
+      "is_positive": 0,
+      "match_type": "broad",
+      "explanation": "Rejected. Query is vague and does not specify BULAŞIK MAKİNESİ."
+    },
+    {
+      "id": 4,
+      "term": "buzdolabı tamircisi muratpaşa antalya yakınında",
+      "is_positive": 0,
+      "match_type": "broad",
+      "explanation": "Rejected. Query refers to a different appliance and location is outside ISTANBUL."
+    },
+    {
+      "id": 5,
+      "term": "çamaşır makinesi kazanı",
+      "is_positive": 0,
+      "match_type": "broad",
+      "explanation": "Rejected. Query refers to a different appliance, not BULAŞIK MAKİNESİ."
+    },
+    {
+      "id": 6,
+      "term": "gölbaşı kombi servisi",
+      "is_positive": 0,
+      "match_type": "broad",
+      "explanation": "Rejected. Query refers to a different appliance, not BULAŞIK MAKİNESİ."
+    },
+    {
+      "id": 7,
+      "term": "uğur derin dondurucu servis",
+      "is_positive": 0,
+      "match_type": "broad",
+      "explanation": "Rejected. Query refers to a different appliance, not BULAŞIK MAKİNESİ."
+    },
+    {
+      "id": 8,
+      "term": "bosch çamaşır makinesi",
+      "is_positive": 0,
+      "match_type": "broad",
+      "explanation": "Rejected. Query refers to a different appliance, not BULAŞIK MAKİNESİ."
+    },
+    {
+      "id": 9,
+      "term": "çamaşır makinesi tamircisi en yakın",
+      "is_positive": 0,
+      "match_type": "broad",
+      "explanation": "Rejected. Query refers to a different appliance, not BULAŞIK MAKİNESİ."
+    },
+    {
+      "id": 10,
+      "term": "iklimsa servis",
+      "is_positive": 0,
+      "match_type": "broad",
+      "explanation": "Rejected. Query is vague and does not specify BULAŞIK MAKİNESİ."
+    },
+    {
+      "id": 11,
+      "term": "fuji klima servis numarası",
+      "is_positive": 0,
+      "match_type": "broad",
+      "explanation": "Rejected. Query refers to a different appliance, not BULAŞIK MAKİNESİ."
+    },
+    {
+      "id": 12,
+      "term": "klima servis mersin",
+      "is_positive": 0,
+      "match_type": "broad",
+      "explanation": "Rejected. Query refers to a different appliance and location is outside ISTANBUL."
+    },
+    {
+      "id": 13,
+      "term": "çamaşır makinesi teknik servis",
+      "is_positive": 0,
+      "match_type": "broad",
+      "explanation": "Rejected. Query refers to a different appliance, not BULAŞIK MAKİNESİ."
+    },
+    {
+      "id": 14,
+      "term": "samsung çamaşır makinesi servis",
+      "is_positive": 0,
+      "match_type": "broad",
+      "explanation": "Rejected. Query refers to a different appliance, not BULAŞIK MAKİNESİ."
+    },
+    {
+      "id": 15,
+      "term": "mersin buzdolabı tamircisi",
+      "is_positive": 0,
+      "match_type": "broad",
+      "explanation": "Rejected. Query refers to a different appliance and location is outside ISTANBUL."
+    },
+    {
+      "id": 16,
+      "term": "servis beyaz eşya",
+      "is_positive": 0,
+      "match_type": "broad",
+      "explanation": "Rejected. Query is vague and does not specify BULAŞIK MAKİNESİ."
+    },
+    {
+      "id": 17,
+      "term": "buzdolabı tamircisi",
+      "is_positive": 0,
+      "match_type": "broad",
+      "explanation": "Rejected. Query refers to a different appliance, not BULAŞIK MAKİNESİ."
+    },
+    {
+      "id": 18,
+      "term": "vestel klima numarası",
+      "is_positive": 0,
+      "match_type": "broad",
+      "explanation": "Rejected. Query refers to a different appliance, not BULAŞIK MAKİNESİ."
+    },
+    {
+      "id": 19,
+      "term": "viessmann kombi servis",
+      "is_positive": 0,
+      "match_type": "broad",
+      "explanation": "Rejected. Query refers to a different appliance, not BULAŞIK MAKİNESİ."
+    },
+    {
+      "id": 20,
+      "term": "siemens çamaşır makinesi tamir servisi",
+      "is_positive": 0,
+      "match_type": "broad",
+      "explanation": "Rejected. Query refers to a different appliance, not BULAŞIK MAKİNESİ."
+    },
+    {
+      "id": 21,
+      "term": "kemalpaşa klima servisi",
+      "is_positive": 0,
+      "match_type": "broad",
+      "explanation": "Rejected. Query refers to a different appliance, not BULAŞIK MAKİNESİ."
+    },
+    {
+      "id": 22,
+      "term": "samsung beyaz eşya servisi",
+      "is_positive": 0,
+      "match_type": "broad",
+      "explanation": "Rejected. Query is vague and does not specify BULAŞIK MAKİNESİ."
+    },
+    {
+      "id": 23,
+      "term": "buzdolabı tamircisi",
+      "is_positive": 0,
+      "match_type": "broad",
+      "explanation": "Rejected. Query refers to a different appliance, not BULAŞIK MAKİNESİ."
+    },
+    {
+      "id": 24,
+      "term": "oto klima tamiri ankara",
+      "is_positive": 0,
+      "match_type": "broad",
+      "explanation": "Rejected. Query refers to a different appliance and location is outside ISTANBUL."
+    },
+    {
+      "id": 25,
+      "term": "midea servis",
+      "is_positive": 0,
+      "match_type": "broad",
+      "explanation": "Rejected. Query is vague and does not specify BULAŞIK MAKİNESİ."
+    },
+    {
+      "id": 26,
+      "term": "trabzon çamaşır makinesi tamircisi",
+      "is_positive": 0,
+      "match_type": "broad",
+      "explanation": "Rejected. Query refers to a different appliance and location is outside ISTANBUL."
+    },
+    {
+      "id": 27,
+      "term": "izmir ferroli kombi servisleri",
+      "is_positive": 0,
+      "match_type": "broad",
+      "explanation": "Rejected. Query refers to a different appliance and location is outside ISTANBUL."
+    },
+    {
+      "id": 28,
+      "term": "bucak klima servisi",
+      "is_positive": 0,
+      "match_type": "broad",
+      "explanation": "Rejected. Query refers to a different appliance and location is outside ISTANBUL."
+    },
+    {
+      "id": 29,
+      "term": "kilizman beyaz eşya ve klima servisi",
+      "is_positive": 0,
+      "match_type": "broad",
+      "explanation": "Rejected. Query is vague and does not specify BULAŞIK MAKİNESİ."
+    },
+    {
+      "id": 30,
+      "term": "buzdolabı tamircisi izmir bornova",
+      "is_positive": 0,
+      "match_type": "broad",
+      "explanation": "Rejected. Query refers to a different appliance and location is outside ISTANBUL."
+    },
+    {
+      "id": 31,
+      "term": "fırın tamircisi",
+      "is_positive": 0,
+      "match_type": "broad",
+      "explanation": "Rejected. Query refers to a different appliance, not BULAŞIK MAKİNESİ."
+    },
+    {
+      "id": 32,
+      "term": "beyaz eşya tamircisi",
+      "is_positive": 0,
+      "match_type": "broad",
+      "explanation": "Rejected. Query is vague and does not specify BULAŞIK MAKİNESİ."
+    },
+    {
+      "id": 33,
+      "term": "miele tamir servis",
+      "is_positive": 0,
+      "match_type": "broad",
+      "explanation": "Rejected. Query refers to a different appliance, not BULAŞIK MAKİNESİ."
+    },
+    {
+      "id": 34,
+      "term": "baymak lambert a82 arızası",
+      "is_positive": 0,
+      "match_type": "broad",
+      "explanation": "Rejected. Query refers to a different appliance, not BULAŞIK MAKİNESİ."
+    },
+    {
+      "id": 35,
+      "term": "ferroli kombi r 03 arızası",
+      "is_positive": 0,
+      "match_type": "broad",
+      "explanation": "Rejected. Query refers to a different appliance, not BULAŞIK MAKİNESİ."
+    },
+    {
+      "id": 36,
+      "term": "airfel arıza",
+      "is_positive": 0,
+      "match_type": "broad",
+      "explanation": "Rejected. Query refers to a different appliance, not BULAŞIK MAKİNESİ."
+    },
+    {
+      "id": 37,
+      "term": "buzdolabı tamiri",
+      "is_positive": 0,
+      "match_type": "broad",
+      "explanation": "Rejected. Query refers to a different appliance, not BULAŞIK MAKİNESİ."
+    },
+    {
+      "id": 38,
+      "term": "şanlıurfa vestel servisi iletişim",
+      "is_positive": 0,
+      "match_type": "broad",
+      "explanation": "Rejected. Query refers to a different appliance and location is outside ISTANBUL."
+    },
+    {
+      "id": 39,
+      "term": "siemens buzdolabı servisi",
+      "is_positive": 0,
+      "match_type": "broad",
+      "explanation": "Rejected. Query refers to a different appliance, not BULAŞIK MAKİNESİ."
+    },
+    {
+      "id": 40,
+      "term": "buzdolabı tamircisi sakarya",
+      "is_positive": 0,
+      "match_type": "broad",
+      "explanation": "Rejected. Query refers to a different appliance and location is outside ISTANBUL."
+    },
+    {
+      "id": 41,
+      "term": "bakır teknik kombi beyaz eşya tamiri",
+      "is_positive": 0,
+      "match_type": "broad",
+      "explanation": "Rejected. Query refers to a different appliance, not BULAŞIK MAKİNESİ."
+    },
+    {
+      "id": 42,
+      "term": "sakarya buzdolabı tamircisi",
+      "is_positive": 0,
+      "match_type": "broad",
+      "explanation": "Rejected. Query refers to a different appliance and location is outside ISTANBUL."
+    },
+    {
+      "id": 43,
+      "term": "arçelik klima servisleri",
+      "is_positive": 0,
+      "match_type": "broad",
+      "explanation": "Rejected. Query refers to a different appliance, not BULAŞIK MAKİNESİ."
+    },
+    {
+      "id": 44,
+      "term": "sincan çamaşır makinesi tamircisi",
+      "is_positive": 0,
+      "match_type": "broad",
+      "explanation": "Rejected. Query refers to a different appliance and location is outside ISTANBUL."
+    },
+    {
+      "id": 45,
+      "term": "altınoluk klima",
+      "is_positive": 0,
+      "match_type": "broad",
+      "explanation": "Rejected. Query refers to a different appliance, not BULAŞIK MAKİNESİ."
+    },
+    {
+      "id": 46,
+      "term": "klima servis",
+      "is_positive": 0,
+      "match_type": "broad",
+      "explanation": "Rejected. Query refers to a different appliance, not BULAŞIK MAKİNESİ."
+    },
+    {
+      "id": 47,
+      "term": "buderus kombi servis kuşadası",
+      "is_positive": 0,
+      "match_type": "broad",
+      "explanation": "Rejected. Query refers to a different appliance and location is outside ISTANBUL."
+    },
+    {
+      "id": 48,
+      "term": "görükle teknik servis",
+      "is_positive": 0,
+      "match_type": "broad",
+      "explanation": "Rejected. Query is vague and does not specify BULAŞIK MAKİNESİ."
+    },
+    {
+      "id": 49,
+      "term": "çamaşır makinesi tamircisi telefon numarası",
+      "is_positive": 0,
+      "match_type": "broad",
+      "explanation": "Rejected. Query refers to a different appliance, not BULAŞIK MAKİNESİ."
+    },
+    {
+      "id": 50,
+      "term": "demirdöküm f arızası",
+      "is_positive": 0,
+      "match_type": "broad",
+      "explanation": "Rejected. Query refers to a different appliance, not BULAŞIK MAKİNESİ."
+    }
+  ]
+}

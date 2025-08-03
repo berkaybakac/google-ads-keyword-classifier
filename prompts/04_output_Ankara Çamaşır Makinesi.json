@@ -1,0 +1,354 @@
+{
+  "results": [
+    {
+      "id": 1,
+      "term": "altus buzdolabı servis",
+      "is_positive": 0,
+      "match_type": "broad",
+      "explanation": "Rejected. Query refers to a product outside the domain of ÇAMAŞIR MAKİNESİ."
+    },
+    {
+      "id": 2,
+      "term": "dolce vita servis",
+      "is_positive": 0,
+      "match_type": "broad",
+      "explanation": "Rejected. Query lacks specific service intent related to ÇAMAŞIR MAKİNESİ."
+    },
+    {
+      "id": 3,
+      "term": "eryaman çamaşır makinesi tamiri",
+      "is_positive": 1,
+      "match_type": "exact",
+      "explanation": "Accepted. Query shows clear third-party repair intent for ÇAMAŞIR MAKİNESİ in ANKARA."
+    },
+    {
+      "id": 4,
+      "term": "gaziantep çamaşır makinesi tamircisi",
+      "is_positive": 0,
+      "match_type": "broad",
+      "explanation": "Rejected. Location is outside the target city ANKARA."
+    },
+    {
+      "id": 5,
+      "term": "arçelik teknik servis",
+      "is_positive": 0,
+      "match_type": "broad",
+      "explanation": "Rejected. Implies official service intent."
+    },
+    {
+      "id": 6,
+      "term": "bağdat teknik kaynarca",
+      "is_positive": 0,
+      "match_type": "broad",
+      "explanation": "Rejected. Lacks specific service intent related to ÇAMAŞIR MAKİNESİ."
+    },
+    {
+      "id": 7,
+      "term": "çamaşır makinesi tamir",
+      "is_positive": 1,
+      "match_type": "phrase",
+      "explanation": "Accepted. Query shows clear third-party repair intent for ÇAMAŞIR MAKİNESİ."
+    },
+    {
+      "id": 8,
+      "term": "grundig servis numarası",
+      "is_positive": 0,
+      "match_type": "broad",
+      "explanation": "Rejected. Lacks service intent and implies official service."
+    },
+    {
+      "id": 9,
+      "term": "bulaşık makinesi tamiri ankara",
+      "is_positive": 0,
+      "match_type": "broad",
+      "explanation": "Rejected. Refers to a product outside the domain of ÇAMAŞIR MAKİNESİ."
+    },
+    {
+      "id": 10,
+      "term": "bandırma buzdolabı tamircisi",
+      "is_positive": 0,
+      "match_type": "broad",
+      "explanation": "Rejected. Location is outside the target city ANKARA."
+    },
+    {
+      "id": 11,
+      "term": "uğur derin dondurucu balıkesir servis",
+      "is_positive": 0,
+      "match_type": "broad",
+      "explanation": "Rejected. Refers to a product outside the domain of ÇAMAŞIR MAKİNESİ."
+    },
+    {
+      "id": 12,
+      "term": "baymak kombi servisi keçiören",
+      "is_positive": 0,
+      "match_type": "broad",
+      "explanation": "Rejected. Refers to a product outside the domain of ÇAMAŞIR MAKİNESİ."
+    },
+    {
+      "id": 13,
+      "term": "demirdöküm servis",
+      "is_positive": 0,
+      "match_type": "broad",
+      "explanation": "Rejected. Lacks specific service intent related to ÇAMAŞIR MAKİNESİ."
+    },
+    {
+      "id": 14,
+      "term": "grundig servis",
+      "is_positive": 0,
+      "match_type": "broad",
+      "explanation": "Rejected. Lacks specific service intent and implies official service."
+    },
+    {
+      "id": 15,
+      "term": "ankara kombici",
+      "is_positive": 0,
+      "match_type": "broad",
+      "explanation": "Rejected. Refers to a product outside the domain of ÇAMAŞIR MAKİNESİ."
+    },
+    {
+      "id": 16,
+      "term": "nebiler vaillant servis",
+      "is_positive": 0,
+      "match_type": "broad",
+      "explanation": "Rejected. Lacks specific service intent related to ÇAMAŞIR MAKİNESİ."
+    },
+    {
+      "id": 17,
+      "term": "tahılpazarı vaillant servisi",
+      "is_positive": 0,
+      "match_type": "broad",
+      "explanation": "Rejected. Lacks specific service intent related to ÇAMAŞIR MAKİNESİ."
+    },
+    {
+      "id": 18,
+      "term": "baymak servis",
+      "is_positive": 0,
+      "match_type": "broad",
+      "explanation": "Rejected. Refers to a product outside the domain of ÇAMAŞIR MAKİNESİ."
+    },
+    {
+      "id": 19,
+      "term": "kuruçay vaillant servis",
+      "is_positive": 0,
+      "match_type": "broad",
+      "explanation": "Rejected. Lacks specific service intent related to ÇAMAŞIR MAKİNESİ."
+    },
+    {
+      "id": 20,
+      "term": "çığlık buderus servis",
+      "is_positive": 0,
+      "match_type": "broad",
+      "explanation": "Rejected. Lacks specific service intent related to ÇAMAŞIR MAKİNESİ."
+    },
+    {
+      "id": 21,
+      "term": "white westinghouse buzdolabı",
+      "is_positive": 0,
+      "match_type": "broad",
+      "explanation": "Rejected. Refers to a product outside the domain of ÇAMAŞIR MAKİNESİ."
+    },
+    {
+      "id": 22,
+      "term": "elbistan beyaz eşya tamircisi",
+      "is_positive": 0,
+      "match_type": "broad",
+      "explanation": "Rejected. Location is outside the target city ANKARA."
+    },
+    {
+      "id": 23,
+      "term": "sarıgazi beyaz eşya servisi",
+      "is_positive": 0,
+      "match_type": "broad",
+      "explanation": "Rejected. Refers to a product outside the domain of ÇAMAŞIR MAKİNESİ."
+    },
+    {
+      "id": 24,
+      "term": "kartal regal servisi",
+      "is_positive": 0,
+      "match_type": "broad",
+      "explanation": "Rejected. Lacks specific service intent related to ÇAMAŞIR MAKİNESİ."
+    },
+    {
+      "id": 25,
+      "term": "buzdolabı teknik servis",
+      "is_positive": 0,
+      "match_type": "broad",
+      "explanation": "Rejected. Refers to a product outside the domain of ÇAMAŞIR MAKİNESİ."
+    },
+    {
+      "id": 26,
+      "term": "bursa vaillant servisi",
+      "is_positive": 0,
+      "match_type": "broad",
+      "explanation": "Rejected. Lacks specific service intent related to ÇAMAŞIR MAKİNESİ."
+    },
+    {
+      "id": 27,
+      "term": "samsung buzdolabı servisi",
+      "is_positive": 0,
+      "match_type": "broad",
+      "explanation": "Rejected. Refers to a product outside the domain of ÇAMAŞIR MAKİNESİ."
+    },
+    {
+      "id": 28,
+      "term": "en yakin arcelik servisi",
+      "is_positive": 0,
+      "match_type": "broad",
+      "explanation": "Rejected. Implies official service intent."
+    },
+    {
+      "id": 29,
+      "term": "fırın tamir servisi",
+      "is_positive": 0,
+      "match_type": "broad",
+      "explanation": "Rejected. Refers to a product outside the domain of ÇAMAŞIR MAKİNESİ."
+    },
+    {
+      "id": 30,
+      "term": "buzdolabı tamircisi",
+      "is_positive": 0,
+      "match_type": "broad",
+      "explanation": "Rejected. Refers to a product outside the domain of ÇAMAŞIR MAKİNESİ."
+    },
+    {
+      "id": 31,
+      "term": "vaillant klima servisi",
+      "is_positive": 0,
+      "match_type": "broad",
+      "explanation": "Rejected. Refers to a product outside the domain of ÇAMAŞIR MAKİNESİ."
+    },
+    {
+      "id": 32,
+      "term": "tavşanlı vaillant servisi",
+      "is_positive": 0,
+      "match_type": "broad",
+      "explanation": "Rejected. Lacks specific service intent related to ÇAMAŞIR MAKİNESİ."
+    },
+    {
+      "id": 33,
+      "term": "mersin televizyon tamircisi",
+      "is_positive": 0,
+      "match_type": "broad",
+      "explanation": "Rejected. Refers to a product outside the domain of ÇAMAŞIR MAKİNESİ."
+    },
+    {
+      "id": 34,
+      "term": "buzdolabı tamircisi",
+      "is_positive": 0,
+      "match_type": "broad",
+      "explanation": "Rejected. Refers to a product outside the domain of ÇAMAŞIR MAKİNESİ."
+    },
+    {
+      "id": 35,
+      "term": "antalya çamaşır makinesi tamircisi",
+      "is_positive": 0,
+      "match_type": "broad",
+      "explanation": "Rejected. Location is outside the target city ANKARA."
+    },
+    {
+      "id": 36,
+      "term": "samsung çamaşır makine servisi",
+      "is_positive": 0,
+      "match_type": "broad",
+      "explanation": "Rejected. Implies official service intent."
+    },
+    {
+      "id": 37,
+      "term": "ev klima gazı dolumu",
+      "is_positive": 0,
+      "match_type": "broad",
+      "explanation": "Rejected. Refers to a product outside the domain of ÇAMAŞIR MAKİNESİ."
+    },
+    {
+      "id": 38,
+      "term": "airfel servis urfa",
+      "is_positive": 0,
+      "match_type": "broad",
+      "explanation": "Rejected. Location is outside the target city ANKARA."
+    },
+    {
+      "id": 39,
+      "term": "urfa baymak servis",
+      "is_positive": 0,
+      "match_type": "broad",
+      "explanation": "Rejected. Location is outside the target city ANKARA."
+    },
+    {
+      "id": 40,
+      "term": "altus buzdolabı",
+      "is_positive": 0,
+      "match_type": "broad",
+      "explanation": "Rejected. Refers to a product outside the domain of ÇAMAŞIR MAKİNESİ."
+    },
+    {
+      "id": 41,
+      "term": "eca aliağa servisi",
+      "is_positive": 0,
+      "match_type": "broad",
+      "explanation": "Rejected. Lacks specific service intent related to ÇAMAŞIR MAKİNESİ."
+    },
+    {
+      "id": 42,
+      "term": "didim profilo servis",
+      "is_positive": 0,
+      "match_type": "broad",
+      "explanation": "Rejected. Lacks specific service intent related to ÇAMAŞIR MAKİNESİ."
+    },
+    {
+      "id": 43,
+      "term": "çamaşır makinesi yerinden oynuyor",
+      "is_positive": 0,
+      "match_type": "broad",
+      "explanation": "Rejected. Lacks clear service intent."
+    },
+    {
+      "id": 44,
+      "term": "gree iletişim",
+      "is_positive": 0,
+      "match_type": "broad",
+      "explanation": "Rejected. Lacks specific service intent related to ÇAMAŞIR MAKİNESİ."
+    },
+    {
+      "id": 45,
+      "term": "çamaşır makinesi temizleme",
+      "is_positive": 1,
+      "match_type": "phrase",
+      "explanation": "Accepted. Query shows clear intent for maintenance related to ÇAMAŞIR MAKİNESİ."
+    },
+    {
+      "id": 46,
+      "term": "buz teknik bursa",
+      "is_positive": 0,
+      "match_type": "broad",
+      "explanation": "Rejected. Lacks specific service intent related to ÇAMAŞIR MAKİNESİ."
+    },
+    {
+      "id": 47,
+      "term": "bandırma klima servisleri",
+      "is_positive": 0,
+      "match_type": "broad",
+      "explanation": "Rejected. Refers to a product outside the domain of ÇAMAŞIR MAKİNESİ."
+    },
+    {
+      "id": 48,
+      "term": "arçelik beyaz eşya servisi iletişim",
+      "is_positive": 0,
+      "match_type": "broad",
+      "explanation": "Rejected. Implies official service intent."
+    },
+    {
+      "id": 49,
+      "term": "beyaz eşya tamircisi",
+      "is_positive": 0,
+      "match_type": "broad",
+      "explanation": "Rejected. Lacks specific service intent related to ÇAMAŞIR MAKİNESİ."
+    },
+    {
+      "id": 50,
+      "term": "bulaşık makinesi tamir servisi",
+      "is_positive": 0,
+      "match_type": "broad",
+      "explanation": "Rejected. Refers to a product outside the domain of ÇAMAŞIR MAKİNESİ."
+    }
+  ]
+}

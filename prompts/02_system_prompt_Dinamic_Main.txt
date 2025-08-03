@@ -20,17 +20,20 @@ For each search term, classify whether an ad should be shown (`is_positive`) and
 ### Accept (`is_positive: 1`)
 Accept a query if:
 - It expresses clear intent to request **third-party repair or service** for something within the {{SECTOR}} domain
-- It includes action terms like `tamir`, `tamircisi`, `servisi`, `onarım`, `arıza`, `bakım`, `servis`
+- It includes action terms like `tamir`, `tamircisi`, `servisi`, `onarım`, `arıza`, `bakım`, `çalışmıyor`, `servis`
 - It does **not** imply an official service center or brand hotline
 - It mentions or implies a location that is part of {{CITY}} — or is location-neutral
 - It may include brand or model names, as long as no official affiliation is suggested
+
+**Important Note:** A combination of just `location + product name` is **not sufficient** to accept. The query MUST contain service-related intent.
 
 ### Reject (`is_positive: 0`)
 Reject a query if:
 - It contains or implies **official service intent** such as `yetkili servis`, `müşteri hizmetleri`, `çağrı merkezi`, `telefon numarası`
 - It refers to **a location outside {{CITY}}**, even if service intent is present
+  Clarification: Any known district, neighborhood, or area that is inside {{CITY}} must be treated as part of {{CITY}}. Do not reject queries that include them.
 - It refers to a product or service that is **not within the domain of {{SECTOR}}**
-- Reject queries that only mention a brand name and a product category (e.g., "Arçelik buzdolabı", "Ariston {{SECTOR}}") without any repair or service-related keywords such as “tamir”, “tamircisi”, “servis”, “onarım”, “çalışmıyor”, “arıza”. These queries show no clear intent and must be rejected.
+- It only mentions a **brand name and a product category** (e.g., "Arçelik buzdolabı", "Ariston {{SECTOR}}") **without** any repair or service-related keywords such as “tamir”, “tamircisi”, “servis”, “onarım”, “çalışmıyor”, “arıza”
 - It is vague, promotional, or lacks any service-oriented language
 - It is written in a non-Turkish language or contains broken structure
 
@@ -40,7 +43,7 @@ Reject a query if:
 
 - `"exact"`: Term includes service intent **and** references a valid location or area inside {{CITY}}
 - `"phrase"`: Term includes clear service intent but is location-neutral
-- `"broad"`: Rejected or vague query; unclear or out-of-scope
+- `"broad"`: Rejected or vague query; unclear, out-of-scope, or lacks sufficient signal
 
 ---
 
@@ -64,15 +67,40 @@ Respond with only JSON. No markdown, no formatting, no headers.
       "is_positive": 1,
       "match_type": "phrase",
       "explanation": "Accepted. Query shows clear third-party repair intent for {{SECTOR}}."
+    },
+    {
+      "id": 89,
+      "term": "eryaman {{SECTOR}} tamiri",
+      "is_positive": 0,
+      "match_type": "broad",
+      "explanation": "Rejected. Location is outside the target city ISTANBUL."
+    },
+    {
+      "id": 57,
+      "term": "kadıköy {{SECTOR}} tamircisi",
+      "is_positive": 1,
+      "match_type": "exact",
+      "explanation": "Accepted. Query shows clear third-party repair intent for {{SECTOR}} in ISTANBUL."
+    },
+    {
+      "id": 58,
+      "term": "ariston {{SECTOR}}",
+      "is_positive": 0,
+      "match_type": "broad",
+      "explanation": "Rejected. Brand and product name only without service-related keywords."
     }
   ]
 }
+```
 
-Final Instructions
-Do not include any explanations outside of the explanation field in JSON
-Do not hallucinate about the brand’s official status — only reject if explicitly stated
-Always classify every term. Never skip.
-Explanations must be short and reflect the true reason behind acceptance or rejection
-Do not name specific districts, neighborhoods, or brand models unless already in the query
-Keep language, structure, and logic scalable for up to 10,000+ terms
-Let the definition of {{SECTOR}} fully determine what belongs or not — assume deep knowledge of sector boundaries
+---
+
+## Final Instructions
+
+- Do not include any explanations outside of the explanation field in JSON  
+- Do not hallucinate about the brand’s official status — only reject if explicitly stated  
+- Always classify every term. Never skip.  
+- Explanations must be short and reflect the true reason behind acceptance or rejection  
+- Do not name specific districts, neighborhoods, or brand models unless already in the query  
+- Keep language, structure, and logic scalable for up to 10,000+ terms  
+- Let the definition of {{SECTOR}} fully determine what belongs or not — assume deep knowledge of sector boundaries  

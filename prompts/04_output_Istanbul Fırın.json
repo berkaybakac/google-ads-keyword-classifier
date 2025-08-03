@@ -1,0 +1,354 @@
+{
+  "results": [
+    {
+      "id": 1,
+      "term": "trabzon arçelik servis merkez ortahisar trabzon",
+      "is_positive": 0,
+      "match_type": "broad",
+      "explanation": "Rejected. Location is outside the target city ISTANBUL."
+    },
+    {
+      "id": 2,
+      "term": "daylux klima servis",
+      "is_positive": 0,
+      "match_type": "broad",
+      "explanation": "Rejected. Query refers to a product outside the FIRIN domain."
+    },
+    {
+      "id": 3,
+      "term": "fabrikalar altus servisi",
+      "is_positive": 0,
+      "match_type": "broad",
+      "explanation": "Rejected. Query refers to a product outside the FIRIN domain."
+    },
+    {
+      "id": 4,
+      "term": "eryaman klima servisi",
+      "is_positive": 0,
+      "match_type": "broad",
+      "explanation": "Rejected. Location is outside the target city ISTANBUL."
+    },
+    {
+      "id": 5,
+      "term": "klima kombi servisi",
+      "is_positive": 0,
+      "match_type": "broad",
+      "explanation": "Rejected. Query refers to a product outside the FIRIN domain."
+    },
+    {
+      "id": 6,
+      "term": "kombici",
+      "is_positive": 0,
+      "match_type": "broad",
+      "explanation": "Rejected. Query is vague and lacks service-oriented language."
+    },
+    {
+      "id": 7,
+      "term": "servis demirdöküm",
+      "is_positive": 0,
+      "match_type": "broad",
+      "explanation": "Rejected. Query refers to a product outside the FIRIN domain."
+    },
+    {
+      "id": 8,
+      "term": "demirdöküm kombi servis numarası",
+      "is_positive": 0,
+      "match_type": "broad",
+      "explanation": "Rejected. Query implies official service intent with contact number."
+    },
+    {
+      "id": 9,
+      "term": "beyaz eşya tamiri",
+      "is_positive": 0,
+      "match_type": "broad",
+      "explanation": "Rejected. Query refers to a product outside the FIRIN domain."
+    },
+    {
+      "id": 10,
+      "term": "arnavutköy fırın tamircisi",
+      "is_positive": 1,
+      "match_type": "exact",
+      "explanation": "Accepted. Query shows clear third-party repair intent for FIRIN in ISTANBUL."
+    },
+    {
+      "id": 11,
+      "term": "profilo servis",
+      "is_positive": 0,
+      "match_type": "broad",
+      "explanation": "Rejected. Query implies official service intent."
+    },
+    {
+      "id": 12,
+      "term": "petek bakımı",
+      "is_positive": 0,
+      "match_type": "broad",
+      "explanation": "Rejected. Query refers to a product outside the FIRIN domain."
+    },
+    {
+      "id": 13,
+      "term": "rota klima servisi mersin",
+      "is_positive": 0,
+      "match_type": "broad",
+      "explanation": "Rejected. Location is outside the target city ISTANBUL."
+    },
+    {
+      "id": 14,
+      "term": "arcelik klima servisi",
+      "is_positive": 0,
+      "match_type": "broad",
+      "explanation": "Rejected. Query refers to a product outside the FIRIN domain."
+    },
+    {
+      "id": 15,
+      "term": "beyaz eşya servisi",
+      "is_positive": 0,
+      "match_type": "broad",
+      "explanation": "Rejected. Query refers to a product outside the FIRIN domain."
+    },
+    {
+      "id": 16,
+      "term": "arçelik servis tel",
+      "is_positive": 0,
+      "match_type": "broad",
+      "explanation": "Rejected. Query implies official service intent with contact number."
+    },
+    {
+      "id": 17,
+      "term": "kombi tamiri",
+      "is_positive": 0,
+      "match_type": "broad",
+      "explanation": "Rejected. Query refers to a product outside the FIRIN domain."
+    },
+    {
+      "id": 18,
+      "term": "baymak servisi bahçeyaka",
+      "is_positive": 0,
+      "match_type": "broad",
+      "explanation": "Rejected. Location is outside the target city ISTANBUL."
+    },
+    {
+      "id": 19,
+      "term": "demirdöküm servis pınarlı",
+      "is_positive": 0,
+      "match_type": "broad",
+      "explanation": "Rejected. Location is outside the target city ISTANBUL."
+    },
+    {
+      "id": 20,
+      "term": "televizyon",
+      "is_positive": 0,
+      "match_type": "broad",
+      "explanation": "Rejected. Query refers to a product outside the FIRIN domain."
+    },
+    {
+      "id": 21,
+      "term": "trabzon bosch servisi telefon numarası",
+      "is_positive": 0,
+      "match_type": "broad",
+      "explanation": "Rejected. Location is outside the target city ISTANBUL."
+    },
+    {
+      "id": 22,
+      "term": "beyaz eşya tamircisi fatih",
+      "is_positive": 0,
+      "match_type": "broad",
+      "explanation": "Rejected. Location is outside the target city ISTANBUL."
+    },
+    {
+      "id": 23,
+      "term": "çamaşır makine tamir",
+      "is_positive": 0,
+      "match_type": "broad",
+      "explanation": "Rejected. Query refers to a product outside the FIRIN domain."
+    },
+    {
+      "id": 24,
+      "term": "zteknik",
+      "is_positive": 0,
+      "match_type": "broad",
+      "explanation": "Rejected. Query is vague and lacks service-oriented language."
+    },
+    {
+      "id": 25,
+      "term": "samsung buzdolabı arızaları",
+      "is_positive": 0,
+      "match_type": "broad",
+      "explanation": "Rejected. Query refers to a product outside the FIRIN domain."
+    },
+    {
+      "id": 26,
+      "term": "öz teknik kurtköy",
+      "is_positive": 0,
+      "match_type": "broad",
+      "explanation": "Rejected. Query is vague and lacks service-oriented language."
+    },
+    {
+      "id": 27,
+      "term": "buzdolabı buzluk delindi",
+      "is_positive": 0,
+      "match_type": "broad",
+      "explanation": "Rejected. Query refers to a product outside the FIRIN domain."
+    },
+    {
+      "id": 28,
+      "term": "en yakın beyaz eşya teknik servis",
+      "is_positive": 0,
+      "match_type": "broad",
+      "explanation": "Rejected. Query refers to a product outside the FIRIN domain."
+    },
+    {
+      "id": 29,
+      "term": "dolap tamircisi",
+      "is_positive": 0,
+      "match_type": "broad",
+      "explanation": "Rejected. Query refers to a product outside the FIRIN domain."
+    },
+    {
+      "id": 30,
+      "term": "arçelik klima",
+      "is_positive": 0,
+      "match_type": "broad",
+      "explanation": "Rejected. Query refers to a product outside the FIRIN domain."
+    },
+    {
+      "id": 31,
+      "term": "menemen klima servisi",
+      "is_positive": 0,
+      "match_type": "broad",
+      "explanation": "Rejected. Location is outside the target city ISTANBUL."
+    },
+    {
+      "id": 32,
+      "term": "bandırma kombi servisi",
+      "is_positive": 0,
+      "match_type": "broad",
+      "explanation": "Rejected. Location is outside the target city ISTANBUL."
+    },
+    {
+      "id": 33,
+      "term": "toshiba tv servis",
+      "is_positive": 0,
+      "match_type": "broad",
+      "explanation": "Rejected. Query refers to a product outside the FIRIN domain."
+    },
+    {
+      "id": 34,
+      "term": "akçay televizyon tamircisi",
+      "is_positive": 0,
+      "match_type": "broad",
+      "explanation": "Rejected. Query refers to a product outside the FIRIN domain."
+    },
+    {
+      "id": 35,
+      "term": "profilo özel servis",
+      "is_positive": 0,
+      "match_type": "broad",
+      "explanation": "Rejected. Query implies official service intent."
+    },
+    {
+      "id": 36,
+      "term": "sıgma klima",
+      "is_positive": 0,
+      "match_type": "broad",
+      "explanation": "Rejected. Query refers to a product outside the FIRIN domain."
+    },
+    {
+      "id": 37,
+      "term": "bayrampaşa klima gazı",
+      "is_positive": 0,
+      "match_type": "broad",
+      "explanation": "Rejected. Query refers to a product outside the FIRIN domain."
+    },
+    {
+      "id": 38,
+      "term": "klima kartal",
+      "is_positive": 0,
+      "match_type": "broad",
+      "explanation": "Rejected. Location is outside the target city ISTANBUL."
+    },
+    {
+      "id": 39,
+      "term": "demirdöküm kombi servisi",
+      "is_positive": 0,
+      "match_type": "broad",
+      "explanation": "Rejected. Query refers to a product outside the FIRIN domain."
+    },
+    {
+      "id": 40,
+      "term": "eca bursa servis",
+      "is_positive": 0,
+      "match_type": "broad",
+      "explanation": "Rejected. Location is outside the target city ISTANBUL."
+    },
+    {
+      "id": 41,
+      "term": "demirdöküm kombi servisi",
+      "is_positive": 0,
+      "match_type": "broad",
+      "explanation": "Rejected. Query refers to a product outside the FIRIN domain."
+    },
+    {
+      "id": 42,
+      "term": "altus servisleri",
+      "is_positive": 0,
+      "match_type": "broad",
+      "explanation": "Rejected. Query refers to a product outside the FIRIN domain."
+    },
+    {
+      "id": 43,
+      "term": "oto klima izmir",
+      "is_positive": 0,
+      "match_type": "broad",
+      "explanation": "Rejected. Location is outside the target city ISTANBUL."
+    },
+    {
+      "id": 44,
+      "term": "şanlıurfa klima tamircileri",
+      "is_positive": 0,
+      "match_type": "broad",
+      "explanation": "Rejected. Location is outside the target city ISTANBUL."
+    },
+    {
+      "id": 45,
+      "term": "gree klima servisi şanlıurfa",
+      "is_positive": 0,
+      "match_type": "broad",
+      "explanation": "Rejected. Location is outside the target city ISTANBUL."
+    },
+    {
+      "id": 46,
+      "term": "seg klima servisi",
+      "is_positive": 0,
+      "match_type": "broad",
+      "explanation": "Rejected. Query refers to a product outside the FIRIN domain."
+    },
+    {
+      "id": 47,
+      "term": "airfel klima servis iletişim",
+      "is_positive": 0,
+      "match_type": "broad",
+      "explanation": "Rejected. Query implies official service intent with contact number."
+    },
+    {
+      "id": 48,
+      "term": "baymak kombi servis numarası",
+      "is_positive": 0,
+      "match_type": "broad",
+      "explanation": "Rejected. Query implies official service intent with contact number."
+    },
+    {
+      "id": 49,
+      "term": "vaillant servis",
+      "is_positive": 0,
+      "match_type": "broad",
+      "explanation": "Rejected. Query implies official service intent."
+    },
+    {
+      "id": 50,
+      "term": "samsung buzdolabı servisi ankara",
+      "is_positive": 0,
+      "match_type": "broad",
+      "explanation": "Rejected. Location is outside the target city ISTANBUL."
+    }
+  ]
+}

@@ -1,0 +1,354 @@
+{
+  "results": [
+    {
+      "id": 1,
+      "term": "bosch servis iletişim",
+      "is_positive": 0,
+      "match_type": "broad",
+      "explanation": "Rejected. Contains official service intent."
+    },
+    {
+      "id": 2,
+      "term": "protherm kombi servisi",
+      "is_positive": 0,
+      "match_type": "broad",
+      "explanation": "Rejected. Contains official service intent."
+    },
+    {
+      "id": 3,
+      "term": "buzdolabı servisi",
+      "is_positive": 0,
+      "match_type": "broad",
+      "explanation": "Rejected. Vague and lacks specific service intent."
+    },
+    {
+      "id": 4,
+      "term": "altus servisi",
+      "is_positive": 0,
+      "match_type": "broad",
+      "explanation": "Rejected. Contains official service intent."
+    },
+    {
+      "id": 5,
+      "term": "kombi servis numarası",
+      "is_positive": 0,
+      "match_type": "broad",
+      "explanation": "Rejected. Contains official service intent."
+    },
+    {
+      "id": 6,
+      "term": "regal beyaz eşya servisi",
+      "is_positive": 0,
+      "match_type": "broad",
+      "explanation": "Rejected. Contains official service intent."
+    },
+    {
+      "id": 7,
+      "term": "buzdolabı ısınıyor",
+      "is_positive": 0,
+      "match_type": "broad",
+      "explanation": "Rejected. Lacks service-oriented language."
+    },
+    {
+      "id": 8,
+      "term": "batıkent arçelik servisi telefon numarası",
+      "is_positive": 0,
+      "match_type": "broad",
+      "explanation": "Rejected. Contains official service intent."
+    },
+    {
+      "id": 9,
+      "term": "bosch servisinin numarası",
+      "is_positive": 0,
+      "match_type": "broad",
+      "explanation": "Rejected. Contains official service intent."
+    },
+    {
+      "id": 10,
+      "term": "altus servis numarası",
+      "is_positive": 0,
+      "match_type": "broad",
+      "explanation": "Rejected. Contains official service intent."
+    },
+    {
+      "id": 11,
+      "term": "yıkama makinesi tamircisi",
+      "is_positive": 0,
+      "match_type": "broad",
+      "explanation": "Rejected. Refers to a product outside the PETEK domain."
+    },
+    {
+      "id": 12,
+      "term": "çamaşır makinesi servisi",
+      "is_positive": 0,
+      "match_type": "broad",
+      "explanation": "Rejected. Refers to a product outside the PETEK domain."
+    },
+    {
+      "id": 13,
+      "term": "bosch buzdolabı servisi konya",
+      "is_positive": 0,
+      "match_type": "broad",
+      "explanation": "Rejected. Contains official service intent."
+    },
+    {
+      "id": 14,
+      "term": "tokat kombi servisi",
+      "is_positive": 0,
+      "match_type": "broad",
+      "explanation": "Rejected. Location is outside ISTANBUL."
+    },
+    {
+      "id": 15,
+      "term": "tamiri",
+      "is_positive": 0,
+      "match_type": "broad",
+      "explanation": "Rejected. Vague and lacks sufficient context."
+    },
+    {
+      "id": 16,
+      "term": "istanbul kombi servis",
+      "is_positive": 0,
+      "match_type": "broad",
+      "explanation": "Rejected. Lacks service-oriented language."
+    },
+    {
+      "id": 17,
+      "term": "petek temizleme sancaktepe",
+      "is_positive": 1,
+      "match_type": "exact",
+      "explanation": "Accepted. Clear intent for third-party service related to PETEK in ISTANBUL."
+    },
+    {
+      "id": 18,
+      "term": "şanlıurfa airfel klima servisi telefon numarası",
+      "is_positive": 0,
+      "match_type": "broad",
+      "explanation": "Rejected. Location is outside ISTANBUL."
+    },
+    {
+      "id": 19,
+      "term": "demirdöküm ordu servis",
+      "is_positive": 0,
+      "match_type": "broad",
+      "explanation": "Rejected. Contains official service intent."
+    },
+    {
+      "id": 20,
+      "term": "altus servis numarasi",
+      "is_positive": 0,
+      "match_type": "broad",
+      "explanation": "Rejected. Contains official service intent."
+    },
+    {
+      "id": 21,
+      "term": "arçelik servisi numarası",
+      "is_positive": 0,
+      "match_type": "broad",
+      "explanation": "Rejected. Contains official service intent."
+    },
+    {
+      "id": 22,
+      "term": "bosch klima servisi",
+      "is_positive": 0,
+      "match_type": "broad",
+      "explanation": "Rejected. Contains official service intent."
+    },
+    {
+      "id": 23,
+      "term": "bosch çamaşır makinesi tamiri",
+      "is_positive": 0,
+      "match_type": "broad",
+      "explanation": "Rejected. Refers to a product outside the PETEK domain."
+    },
+    {
+      "id": 24,
+      "term": "balıkesir bosch servisi",
+      "is_positive": 0,
+      "match_type": "broad",
+      "explanation": "Rejected. Location is outside ISTANBUL."
+    },
+    {
+      "id": 25,
+      "term": "airfel servis ankara",
+      "is_positive": 0,
+      "match_type": "broad",
+      "explanation": "Rejected. Location is outside ISTANBUL."
+    },
+    {
+      "id": 26,
+      "term": "seg çamaşır makinesi servisi",
+      "is_positive": 0,
+      "match_type": "broad",
+      "explanation": "Rejected. Refers to a product outside the PETEK domain."
+    },
+    {
+      "id": 27,
+      "term": "zeyrek beyaz eşya darıca",
+      "is_positive": 0,
+      "match_type": "broad",
+      "explanation": "Rejected. Location is outside ISTANBUL."
+    },
+    {
+      "id": 28,
+      "term": "çamaşır makinesini boş çalıştırmak",
+      "is_positive": 0,
+      "match_type": "broad",
+      "explanation": "Rejected. Lacks service-oriented language."
+    },
+    {
+      "id": 29,
+      "term": "demirdöküm servisi konyaaltı",
+      "is_positive": 0,
+      "match_type": "broad",
+      "explanation": "Rejected. Location is outside ISTANBUL."
+    },
+    {
+      "id": 30,
+      "term": "karaveliler baymak servisi",
+      "is_positive": 0,
+      "match_type": "broad",
+      "explanation": "Rejected. Contains official service intent."
+    },
+    {
+      "id": 31,
+      "term": "yeşilova buderus servisi",
+      "is_positive": 0,
+      "match_type": "broad",
+      "explanation": "Rejected. Contains official service intent."
+    },
+    {
+      "id": 32,
+      "term": "yeniköy vaillant servisi",
+      "is_positive": 0,
+      "match_type": "broad",
+      "explanation": "Rejected. Contains official service intent."
+    },
+    {
+      "id": 33,
+      "term": "baymak servisi çamköy",
+      "is_positive": 0,
+      "match_type": "broad",
+      "explanation": "Rejected. Contains official service intent."
+    },
+    {
+      "id": 34,
+      "term": "çekmeköy beyaz eşya servisi",
+      "is_positive": 0,
+      "match_type": "broad",
+      "explanation": "Rejected. Contains official service intent."
+    },
+    {
+      "id": 35,
+      "term": "seg buzdolabı",
+      "is_positive": 0,
+      "match_type": "broad",
+      "explanation": "Rejected. Refers to a product outside the PETEK domain."
+    },
+    {
+      "id": 36,
+      "term": "mecidiyeköy buzdolabı tamircisi",
+      "is_positive": 0,
+      "match_type": "broad",
+      "explanation": "Rejected. Refers to a product outside the PETEK domain."
+    },
+    {
+      "id": 37,
+      "term": "ümraniye sanayi klimacı",
+      "is_positive": 0,
+      "match_type": "broad",
+      "explanation": "Rejected. Refers to a product outside the PETEK domain."
+    },
+    {
+      "id": 38,
+      "term": "güngören televizyon tamircisi",
+      "is_positive": 0,
+      "match_type": "broad",
+      "explanation": "Rejected. Refers to a product outside the PETEK domain."
+    },
+    {
+      "id": 39,
+      "term": "alarko klima servis",
+      "is_positive": 0,
+      "match_type": "broad",
+      "explanation": "Rejected. Contains official service intent."
+    },
+    {
+      "id": 40,
+      "term": "westinghouse servisi",
+      "is_positive": 0,
+      "match_type": "broad",
+      "explanation": "Rejected. Contains official service intent."
+    },
+    {
+      "id": 41,
+      "term": "buzdolabı tamircisi",
+      "is_positive": 0,
+      "match_type": "broad",
+      "explanation": "Rejected. Refers to a product outside the PETEK domain."
+    },
+    {
+      "id": 42,
+      "term": "bursa görükle televizyon tamircisi",
+      "is_positive": 0,
+      "match_type": "broad",
+      "explanation": "Rejected. Location is outside ISTANBUL."
+    },
+    {
+      "id": 43,
+      "term": "tv servisi",
+      "is_positive": 0,
+      "match_type": "broad",
+      "explanation": "Rejected. Refers to a product outside the PETEK domain."
+    },
+    {
+      "id": 44,
+      "term": "toshiba genel merkez",
+      "is_positive": 0,
+      "match_type": "broad",
+      "explanation": "Rejected. Contains official service intent."
+    },
+    {
+      "id": 45,
+      "term": "çamaşır kurutma makinesi tamiri",
+      "is_positive": 0,
+      "match_type": "broad",
+      "explanation": "Rejected. Refers to a product outside the PETEK domain."
+    },
+    {
+      "id": 46,
+      "term": "bursa vaillant servisi",
+      "is_positive": 0,
+      "match_type": "broad",
+      "explanation": "Rejected. Location is outside ISTANBUL."
+    },
+    {
+      "id": 47,
+      "term": "profilo beyaz eşya",
+      "is_positive": 0,
+      "match_type": "broad",
+      "explanation": "Rejected. Refers to a product outside the PETEK domain."
+    },
+    {
+      "id": 48,
+      "term": "antalya döşemealtı beyaz eşya tamircisi",
+      "is_positive": 0,
+      "match_type": "broad",
+      "explanation": "Rejected. Location is outside ISTANBUL."
+    },
+    {
+      "id": 49,
+      "term": "vaillant iletişim",
+      "is_positive": 0,
+      "match_type": "broad",
+      "explanation": "Rejected. Contains official service intent."
+    },
+    {
+      "id": 50,
+      "term": "çamaşır makinesi arıza tespiti",
+      "is_positive": 0,
+      "match_type": "broad",
+      "explanation": "Rejected. Refers to a product outside the PETEK domain."
+    }
+  ]
+}

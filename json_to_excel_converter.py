@@ -7,8 +7,16 @@ import os
 
 # Giriş JSON dosyaları ve sheet adları
 json_files = [
-    ("prompts/04_output_Ankara klima servisi.json", "Ankara_Klima_Servisi"),
-    ("prompts/04_output_İstanbul beyaz eşya servisi.json", "Istanbul_Beyaz_Esya")
+    ("prompts/04_output_Ankara Çamaşır Makinesi.json", "Ankara_Çamaşır_Makinesi"),
+    ("prompts/04_output_Ankara Klima Servisi.json", "Ankara_Klima_Servisi"),
+    ("prompts/04_output_Ankara kombi.json", "Ankara_Kombi"),
+    ("prompts/04_output_Istanbul Beyaz Eşya.json", "İstanbul_Beyaz_Eşya"),
+    ("prompts/04_output_Istanbul Bulaşık Makinesi.json", "İstanbul_Bulaşık_Makinesi"),
+    ("prompts/04_output_Istanbul Buzdolabı.json", "İstanbul_Buzdolabı"),
+    ("prompts/04_output_Istanbul Çamaşır Makinesi.json", "İstanbul_Çamaşır_Makinesi"),
+    ("prompts/04_output_Istanbul Fırın.json", "İstanbul_Fırın"),
+    ("prompts/04_output_Istanbul Petek.json", "İstanbul_Petek"),
+    ("prompts/04_output_Istanbul Televizyon.json", "İstanbul_Televizyon")
 ]
 
 # Çıkış dosyası adı

@@ -1,0 +1,354 @@
+{
+  "results": [
+    {
+      "id": 1,
+      "term": "demirdöküm teknik servis",
+      "is_positive": 0,
+      "match_type": "broad",
+      "explanation": "Rejected. Refers to a brand's technical service without BUZDOLABI intent."
+    },
+    {
+      "id": 2,
+      "term": "demirdöküm servisi molla yusuf",
+      "is_positive": 0,
+      "match_type": "broad",
+      "explanation": "Rejected. Refers to a brand's service without BUZDOLABI intent."
+    },
+    {
+      "id": 3,
+      "term": "buderus servis çitdibi",
+      "is_positive": 0,
+      "match_type": "broad",
+      "explanation": "Rejected. Refers to a brand's service without BUZDOLABI intent."
+    },
+    {
+      "id": 4,
+      "term": "batıkent kombi servisi",
+      "is_positive": 0,
+      "match_type": "broad",
+      "explanation": "Rejected. Refers to a combi service without BUZDOLABI intent."
+    },
+    {
+      "id": 5,
+      "term": "trabzon altus servisi",
+      "is_positive": 0,
+      "match_type": "broad",
+      "explanation": "Rejected. Location is outside the target city ISTANBUL."
+    },
+    {
+      "id": 6,
+      "term": "regal servis numarası",
+      "is_positive": 0,
+      "match_type": "broad",
+      "explanation": "Rejected. Refers to a brand's service number without BUZDOLABI intent."
+    },
+    {
+      "id": 7,
+      "term": "çamaşır makinesi arızası",
+      "is_positive": 0,
+      "match_type": "broad",
+      "explanation": "Rejected. Refers to a washing machine issue, not BUZDOLABI."
+    },
+    {
+      "id": 8,
+      "term": "çamaşır makinesi windsor",
+      "is_positive": 0,
+      "match_type": "broad",
+      "explanation": "Rejected. Refers to a washing machine without BUZDOLABI intent."
+    },
+    {
+      "id": 9,
+      "term": "indesit buzdolabı teknik servis",
+      "is_positive": 0,
+      "match_type": "broad",
+      "explanation": "Rejected. Refers to a brand's technical service without third-party intent."
+    },
+    {
+      "id": 10,
+      "term": "baha teknik servis",
+      "is_positive": 0,
+      "match_type": "broad",
+      "explanation": "Rejected. Refers to a brand's technical service without BUZDOLABI intent."
+    },
+    {
+      "id": 11,
+      "term": "miele servis",
+      "is_positive": 0,
+      "match_type": "broad",
+      "explanation": "Rejected. Refers to a brand's service without BUZDOLABI intent."
+    },
+    {
+      "id": 12,
+      "term": "endüstriyel dolap tamircisi",
+      "is_positive": 0,
+      "match_type": "broad",
+      "explanation": "Rejected. Refers to industrial cabinets, not BUZDOLABI."
+    },
+    {
+      "id": 13,
+      "term": "dijitsu çamaşır makinesi servis",
+      "is_positive": 0,
+      "match_type": "broad",
+      "explanation": "Rejected. Refers to a washing machine service, not BUZDOLABI."
+    },
+    {
+      "id": 14,
+      "term": "profilo çamaşır makinesi e 18",
+      "is_positive": 0,
+      "match_type": "broad",
+      "explanation": "Rejected. Refers to a washing machine issue, not BUZDOLABI."
+    },
+    {
+      "id": 15,
+      "term": "uğur derin dondurucunun servis numarası",
+      "is_positive": 0,
+      "match_type": "broad",
+      "explanation": "Rejected. Refers to a brand's service number without BUZDOLABI intent."
+    },
+    {
+      "id": 16,
+      "term": "eca kombi servis numarası",
+      "is_positive": 0,
+      "match_type": "broad",
+      "explanation": "Rejected. Refers to a combi service number without BUZDOLABI intent."
+    },
+    {
+      "id": 17,
+      "term": "bandırma baymak servisi",
+      "is_positive": 0,
+      "match_type": "broad",
+      "explanation": "Rejected. Location is outside the target city ISTANBUL."
+    },
+    {
+      "id": 18,
+      "term": "airfel kombi lp arızası",
+      "is_positive": 0,
+      "match_type": "broad",
+      "explanation": "Rejected. Refers to a combi issue, not BUZDOLABI."
+    },
+    {
+      "id": 19,
+      "term": "kombi servis kombi bakım petek temizleme",
+      "is_positive": 0,
+      "match_type": "broad",
+      "explanation": "Rejected. Refers to combi services, not BUZDOLABI."
+    },
+    {
+      "id": 20,
+      "term": "baymak klima servis",
+      "is_positive": 0,
+      "match_type": "broad",
+      "explanation": "Rejected. Refers to a brand's service without BUZDOLABI intent."
+    },
+    {
+      "id": 21,
+      "term": "kahta klima",
+      "is_positive": 0,
+      "match_type": "broad",
+      "explanation": "Rejected. Refers to a location outside ISTANBUL and not BUZDOLABI."
+    },
+    {
+      "id": 22,
+      "term": "beyaz eşya teknik servis",
+      "is_positive": 0,
+      "match_type": "broad",
+      "explanation": "Rejected. Refers to general white goods service without BUZDOLABI intent."
+    },
+    {
+      "id": 23,
+      "term": "en yakın televizyoncu",
+      "is_positive": 0,
+      "match_type": "broad",
+      "explanation": "Rejected. Refers to television services, not BUZDOLABI."
+    },
+    {
+      "id": 24,
+      "term": "televizyon tamir",
+      "is_positive": 0,
+      "match_type": "broad",
+      "explanation": "Rejected. Refers to television repair, not BUZDOLABI."
+    },
+    {
+      "id": 25,
+      "term": "kilama",
+      "is_positive": 0,
+      "match_type": "broad",
+      "explanation": "Rejected. Vague and unclear, not related to BUZDOLABI."
+    },
+    {
+      "id": 26,
+      "term": "klima alım satım",
+      "is_positive": 0,
+      "match_type": "broad",
+      "explanation": "Rejected. Refers to air conditioning sales, not BUZDOLABI."
+    },
+    {
+      "id": 27,
+      "term": "dijitsu tv",
+      "is_positive": 0,
+      "match_type": "broad",
+      "explanation": "Rejected. Refers to television, not BUZDOLABI."
+    },
+    {
+      "id": 28,
+      "term": "hexel kombi servisi",
+      "is_positive": 0,
+      "match_type": "broad",
+      "explanation": "Rejected. Refers to a brand's service without BUZDOLABI intent."
+    },
+    {
+      "id": 29,
+      "term": "bodrum çamaşır makinesi tamircisi",
+      "is_positive": 0,
+      "match_type": "broad",
+      "explanation": "Rejected. Refers to a washing machine service, not BUZDOLABI."
+    },
+    {
+      "id": 30,
+      "term": "karşıyaka klima servisi",
+      "is_positive": 0,
+      "match_type": "broad",
+      "explanation": "Rejected. Refers to a location outside ISTANBUL and not BUZDOLABI."
+    },
+    {
+      "id": 31,
+      "term": "eca kombi servisi sakarya",
+      "is_positive": 0,
+      "match_type": "broad",
+      "explanation": "Rejected. Location is outside the target city ISTANBUL."
+    },
+    {
+      "id": 32,
+      "term": "beyaz eşya servisi",
+      "is_positive": 0,
+      "match_type": "broad",
+      "explanation": "Rejected. Refers to general white goods service without BUZDOLABI intent."
+    },
+    {
+      "id": 33,
+      "term": "buzdolabı servisi ankara",
+      "is_positive": 0,
+      "match_type": "broad",
+      "explanation": "Rejected. Location is outside the target city ISTANBUL."
+    },
+    {
+      "id": 34,
+      "term": "arçelik buzdolabı teknik servis",
+      "is_positive": 0,
+      "match_type": "broad",
+      "explanation": "Rejected. Refers to a brand's technical service without third-party intent."
+    },
+    {
+      "id": 35,
+      "term": "airfel klima servis numarası",
+      "is_positive": 0,
+      "match_type": "broad",
+      "explanation": "Rejected. Refers to a brand's service number without BUZDOLABI intent."
+    },
+    {
+      "id": 36,
+      "term": "arçelik teknik servis",
+      "is_positive": 0,
+      "match_type": "broad",
+      "explanation": "Rejected. Refers to a brand's technical service without BUZDOLABI intent."
+    },
+    {
+      "id": 37,
+      "term": "mersin arçelik buzdolabı servisi",
+      "is_positive": 0,
+      "match_type": "broad",
+      "explanation": "Rejected. Location is outside the target city ISTANBUL."
+    },
+    {
+      "id": 38,
+      "term": "baymak servis numarası",
+      "is_positive": 0,
+      "match_type": "broad",
+      "explanation": "Rejected. Refers to a brand's service number without BUZDOLABI intent."
+    },
+    {
+      "id": 39,
+      "term": "ariston teknik servis",
+      "is_positive": 0,
+      "match_type": "broad",
+      "explanation": "Rejected. Refers to a brand's technical service without BUZDOLABI intent."
+    },
+    {
+      "id": 40,
+      "term": "demirdöküm servis",
+      "is_positive": 0,
+      "match_type": "broad",
+      "explanation": "Rejected. Refers to a brand's service without BUZDOLABI intent."
+    },
+    {
+      "id": 41,
+      "term": "bosch servis",
+      "is_positive": 0,
+      "match_type": "broad",
+      "explanation": "Rejected. Refers to a brand's service without BUZDOLABI intent."
+    },
+    {
+      "id": 42,
+      "term": "toshiba klima servis",
+      "is_positive": 0,
+      "match_type": "broad",
+      "explanation": "Rejected. Refers to a brand's service without BUZDOLABI intent."
+    },
+    {
+      "id": 43,
+      "term": "bursa demirtaş klima servisi",
+      "is_positive": 0,
+      "match_type": "broad",
+      "explanation": "Rejected. Location is outside the target city ISTANBUL."
+    },
+    {
+      "id": 44,
+      "term": "öz beyaz eşya",
+      "is_positive": 0,
+      "match_type": "broad",
+      "explanation": "Rejected. Vague and not related to BUZDOLABI."
+    },
+    {
+      "id": 45,
+      "term": "buzdolabım hep çalışıyor",
+      "is_positive": 0,
+      "match_type": "broad",
+      "explanation": "Rejected. Lacks service intent, merely states a condition."
+    },
+    {
+      "id": 46,
+      "term": "vestel servis numarası",
+      "is_positive": 0,
+      "match_type": "broad",
+      "explanation": "Rejected. Refers to a brand's service number without BUZDOLABI intent."
+    },
+    {
+      "id": 47,
+      "term": "bosch klima servisi ankara",
+      "is_positive": 0,
+      "match_type": "broad",
+      "explanation": "Rejected. Location is outside the target city ISTANBUL."
+    },
+    {
+      "id": 48,
+      "term": "arcelik tamir",
+      "is_positive": 0,
+      "match_type": "broad",
+      "explanation": "Rejected. Refers to a brand's repair without BUZDOLABI intent."
+    },
+    {
+      "id": 49,
+      "term": "incek beyaz eşya servisi",
+      "is_positive": 0,
+      "match_type": "broad",
+      "explanation": "Rejected. Refers to general white goods service without BUZDOLABI intent."
+    },
+    {
+      "id": 50,
+      "term": "bosch servisi",
+      "is_positive": 0,
+      "match_type": "broad",
+      "explanation": "Rejected. Refers to a brand's service without BUZDOLABI intent."
+    }
+  ]
+}
